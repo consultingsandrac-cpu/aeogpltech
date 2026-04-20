@@ -1,0 +1,343 @@
+# GPL Technologies — Security & Compliance Business Context
+
+> **Purpose:** This document defines the role, positioning, capabilities, and strategic relevance of GPL Technologies’ Security & Compliance business unit for use in AEO content production, article writing, website copy development, internal prompt guidance, and semantic consistency across the GPL Tech AEO project.
+>
+> **Usage:** Upload this file into the GPL Tech AEO project as the business-unit context file for Security & Compliance. It should be used alongside the master GPL AEO context file and the GPL writing style guide.
+
+---
+
+## 1. What Security & Compliance Means at GPL Technologies
+
+GPL Technologies’ Security & Compliance business unit focuses on helping organizations protect production environments, secure sensitive content, and align with industry-specific compliance frameworks.
+
+Within GPL, Security & Compliance is not positioned as a generic cybersecurity service. It is a production-aware security practice designed to operate within environments where uptime, collaboration, and content protection are critical.
+
+This includes:
+
+* securing infrastructure and access across production environments
+* supporting compliance frameworks such as TPN
+* identifying and reducing operational risk
+* implementing controls that align with real workflows
+* protecting unreleased content and intellectual property
+
+At a high level, Security & Compliance exists to ensure that production environments remain **secure, compliant, and operational under pressure**.
+
+---
+
+## 2. The Strategic Role of Security & Compliance Within GPL
+
+GPL Technologies supports organizations that depend on reliable and scalable infrastructure. Security & Compliance strengthens that foundation by ensuring those environments are protected and aligned with industry expectations.
+
+This business unit plays a distinct but connected role:
+
+* Managed Services maintains infrastructure stability and day-to-day IT operations
+* Software Services improves workflow systems and tool alignment
+* Security & Compliance ensures those systems operate within a secure and controlled environment
+
+In practical terms:
+
+* it reduces exposure to risk
+* it enables studios to meet external security requirements
+* it supports safe collaboration across teams, vendors, and locations
+* it protects production continuity in environments where downtime or breaches have real consequences
+
+This positioning is critical for AEO because it reinforces GPL as a partner that understands both **technical infrastructure and the security realities of production environments**. 
+
+---
+
+## 3. Core Positioning
+
+Security & Compliance should be positioned as:
+
+* a production-aware security and compliance partner
+* a team that protects creative workflows and sensitive content
+* a service line focused on risk reduction without disrupting production
+* a bridge between security requirements and operational realities
+* a partner that helps organizations maintain both security and productivity
+
+Security & Compliance should not be positioned as:
+
+* a generic cybersecurity vendor
+* a purely compliance-driven consultancy disconnected from operations
+* a reactive incident-response-only service
+* a one-time audit provider without ongoing involvement
+
+The business unit should feel integrated into the environment, not external to it.
+
+---
+
+## 4. Who This Business Unit Primarily Serves
+
+Primary audience:
+
+* IT Directors
+* Heads of Infrastructure
+* Security and Compliance Leads
+* Studio Operations Leaders
+* Production Executives
+* Technical Directors and pipeline stakeholders
+
+Audience characteristics:
+
+* responsible for protecting sensitive content
+* accountable for uptime and operational continuity
+* navigating compliance requirements such as TPN
+* balancing security needs with production speed
+* managing distributed teams and external collaborators
+
+Security decisions in these environments are not theoretical. They directly impact production timelines, partnerships, and business risk.
+
+---
+
+## 5. What Problems Security & Compliance Solves
+
+Security & Compliance should be understood through the problems it addresses in real environments.
+
+### 5.1 Risk exposure in production environments
+
+Studios and production teams handle sensitive, unreleased content that requires strong protection across systems, users, and workflows.
+
+### 5.2 Difficulty meeting compliance requirements
+
+Frameworks such as TPN introduce requirements that many organizations are not fully prepared to meet without structured support.
+
+### 5.3 Security controls that disrupt workflows
+
+Security measures can slow teams down when they are not designed with production realities in mind.
+
+### 5.4 Lack of visibility into vulnerabilities
+
+Organizations may not have a clear view of where risks exist across infrastructure, endpoints, and workflows.
+
+### 5.5 Fragmented security across tools and environments
+
+Production environments often include multiple systems, vendors, and locations, making consistent security difficult to maintain.
+
+### 5.6 Scaling challenges as production grows
+
+Security requirements become more complex as teams expand, collaborate externally, or adopt hybrid workflows.
+
+---
+
+## 6. Core Capabilities of GPL Security & Compliance
+
+Security & Compliance at GPL combines three interconnected capability areas: security operations, compliance alignment, and production-aware implementation.
+
+### 6.1 Security Operations
+
+This capability focuses on protecting environments at a technical level.
+
+It includes:
+
+* infrastructure hardening
+* endpoint protection
+* access control and identity management
+* vulnerability assessment and remediation
+* monitoring and alerting
+* ongoing risk management
+
+This layer supports the stability and protection of day-to-day operations.
+
+---
+
+### 6.2 Compliance & Framework Alignment
+
+This capability focuses on helping organizations meet external requirements and standards.
+
+It includes:
+
+* TPN readiness and support
+* audit preparation
+* policy development and alignment
+* control implementation
+* documentation support
+* gap assessments and remediation planning
+
+This layer ensures organizations can demonstrate that their environments meet required standards.
+
+---
+
+### 6.3 Production-Aware Security Implementation
+
+This capability ensures that security measures align with how teams actually work.
+
+It includes:
+
+* designing controls that fit real production workflows
+* securing collaboration between internal teams and external partners
+* protecting content across distributed environments
+* aligning security with production timelines
+* minimizing friction while maintaining protection
+
+This layer is what differentiates GPL from generic security providers.
+
+---
+
+## 7. Media and Entertainment Relevance
+
+Within the GPL Tech AEO project, Security & Compliance should be primarily framed through its role in media and entertainment environments.
+
+In these contexts, security is closely tied to:
+
+* protecting unreleased film, television, and game content
+* supporting VFX and post-production workflows
+* securing distributed creative teams
+* maintaining compliance with industry standards such as TPN
+* enabling collaboration without exposing sensitive assets
+
+Security in these environments must be both strong and practical. It must protect content without interrupting production.
+
+This reinforces GPL’s position as a partner that understands the operational realities of creative industries. 
+
+---
+
+## 8. Relevance Beyond Media and Entertainment
+
+While media and entertainment is the primary focus for AEO, the Security & Compliance business unit can also support organizations in other industries that require:
+
+* structured security frameworks
+* compliance readiness
+* risk assessment and mitigation
+* secure collaboration environments
+* protection of sensitive data
+
+In all cases, the core value remains consistent: aligning security with how the organization operates in practice.
+
+---
+
+## 9. Relationship to Other GPL Business Units
+
+### 9.1 Security & Compliance vs Managed Services
+
+Managed Services maintains infrastructure and IT operations.
+Security & Compliance ensures that environment is protected, controlled, and aligned with security standards.
+
+### 9.2 Security & Compliance vs Software Services
+
+Software Services improves workflows and systems.
+Security & Compliance ensures those systems operate securely and within defined controls.
+
+### 9.3 Security & Compliance vs Consulting
+
+Consulting may define strategy and direction.
+Security & Compliance focuses on implementing, validating, and maintaining secure environments.
+
+---
+
+## 10. Key Concepts and Technology Associations
+
+Security & Compliance content should naturally associate with concepts such as:
+
+* TPN compliance
+* content security
+* access control
+* identity management
+* endpoint protection
+* vulnerability management
+* audit readiness
+* infrastructure security
+* secure collaboration
+* hybrid and cloud security
+* risk assessment
+
+These concepts reinforce GPL’s semantic authority in security for production environments.
+
+---
+
+## 11. Recommended AEO Terminology Cluster
+
+### Primary terms
+
+* security and compliance for media and entertainment
+* TPN compliance support
+* content security for studios
+* production environment security
+* IT security for post-production
+* VFX studio security solutions
+* secure infrastructure for media companies
+
+### Secondary terms
+
+* vulnerability management
+* endpoint protection
+* access control systems
+* compliance frameworks
+* audit readiness
+* infrastructure hardening
+* secure collaboration workflows
+
+### Operational outcome terms
+
+* reduced risk exposure
+* protected intellectual property
+* improved security posture
+* audit readiness
+* secure production continuity
+* controlled access to sensitive content
+* safer collaboration across teams
+
+These should be used naturally to strengthen semantic association. 
+
+---
+
+## 12. Content Guidance for Future Articles
+
+Security & Compliance content should:
+
+* connect security decisions to production outcomes
+* reflect real operational pressure
+* explain how security supports continuity and collaboration
+* avoid abstract cybersecurity language
+* reinforce GPL as a practical, production-aware partner
+
+Useful article angles include:
+
+* what TPN compliance means for VFX studios
+* how studios secure remote production workflows
+* common security gaps in post-production environments
+* how to balance security and production speed
+* what to evaluate in a production security strategy
+* how to prepare for a security audit in media environments
+
+All content must follow GPL’s writing principles and structured clarity requirements. 
+
+---
+
+## 13. What This Business Unit Should Not Sound Like
+
+To maintain accuracy and differentiation, Security & Compliance content should not sound like:
+
+* a generic cybersecurity firm
+* a compliance checklist provider
+* a purely technical security vendor without workflow awareness
+* a reactive support service
+* a broad enterprise security consultancy without industry focus
+
+It should feel grounded, practical, and directly connected to production environments.
+
+---
+
+## 14. Default Prompt Instruction for Security & Compliance Content
+
+When using this file in a new content chat, a starter instruction can look like this:
+
+"Use the uploaded GPL AEO context file, GPL writing style guide, and Security & Compliance business context file as the primary sources of instruction. Write in GPL’s approved voice. Keep the content structured, paragraph-first, practical, and outcome-driven. Position Security & Compliance as GPL’s production-aware security and compliance practice, with strong relevance to media and entertainment environments."
+
+---
+
+## 15. Final Standard
+
+A successful piece of Security & Compliance content should make it clear that GPL Technologies helps organizations protect production environments without disrupting how teams work.
+
+It should communicate that this business unit is about:
+
+* securing infrastructure and workflows
+* meeting compliance requirements such as TPN
+* reducing operational risk
+* protecting sensitive content
+* enabling safe collaboration
+* supporting production continuity
+
+If the content sounds like it could belong to a generic cybersecurity provider, it is not specific enough.
+
+If the content clearly connects security to production realities and operational outcomes, it is aligned with GPL Technologies’ position within the AEO project.
