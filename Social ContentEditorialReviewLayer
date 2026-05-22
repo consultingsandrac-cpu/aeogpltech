@@ -1,0 +1,552 @@
+# GPL Technologies — Social Content Editorial Review Layer
+
+> **Purpose:** This document provides a post-draft editorial review framework for GPL Technologies social content, especially LinkedIn and Reddit posts.  
+> **Usage:** Use this after the first version of a social post has been created using the GPL AEO project context, business-unit source documents, GPL writing style guide, and the specific article or campaign prompt.  
+> **Goal:** Improve the quality of social content before it is sent for review or published by making posts clearer, more specific, more useful, and more aligned with GPL’s voice.
+
+---
+
+## 1. What This Document Is
+
+This is not a replacement for the GPL Technologies writing style guide.
+
+The writing style guide defines GPL’s brand voice.
+
+This document defines the editorial review process for social posts after they are drafted.
+
+Use it to revise LinkedIn posts, Reddit posts, short social captions, article-sharing copy, and thought-leadership snippets before sending them for review.
+
+The goal is to make each post feel like it came from a knowledgeable, practical technology partner, not from a generic marketing template.
+
+---
+
+## 2. Core Social Content Standard
+
+A strong GPL social post should feel:
+
+- useful
+- specific
+- calm
+- clear
+- credible
+- grounded in real production environments
+- relevant to media and entertainment decision-makers
+- written for people who understand technical and operational pressure
+
+A GPL social post should not feel:
+
+- generic
+- overly promotional
+- exaggerated
+- vague
+- too casual
+- too polished in an artificial way
+- like a motivational LinkedIn post
+- like a simplified version of the article
+- like filler created to meet a posting quota
+
+Before submitting a post, review whether it gives the reader a useful idea, or whether it only sounds like content.
+
+---
+
+## 3. Social Content Must Still Sound Like GPL
+
+GPL’s approved voice is expert, clear, and outcome-driven.
+
+Social posts can be slightly more conversational than articles, but they should still remain professional, practical, and grounded.
+
+Do not make the post sound like:
+
+- a generic MSP
+- a cybersecurity influencer
+- a software vendor
+- a hardware reseller
+- a motivational business account
+- a broad B2B marketing brand
+
+The post should still connect technology to real workflows, production pressure, infrastructure decisions, security, scalability, or operational continuity.
+
+---
+
+## 4. The “No LinkedIn Guru” Rule
+
+Avoid posts that sound like staged insight or generic thought leadership.
+
+### Avoid patterns like:
+
+> Most studios think downtime starts with technology.  
+> It does not.  
+> It starts with the small cracks in the workflow.
+
+Or:
+
+> Security is no longer optional.  
+> It is the foundation of trust.  
+> And studios that ignore it will fall behind.
+
+Or:
+
+> The future belongs to teams that move faster.  
+> But speed without structure creates risk.
+
+These lines may sound polished, but they often feel artificial and overdramatic.
+
+### Prefer:
+
+> In production environments, downtime often builds from smaller operational issues: unclear ownership, delayed support, aging infrastructure, or systems that were never designed to scale with the team.
+
+Or:
+
+> Security works best when the controls reflect how production teams actually collaborate, share assets, and move work across vendors, locations, and systems.
+
+A GPL post should sound informed, not performative.
+
+---
+
+## 5. Avoid Empty Engagement Hooks
+
+Do not rely on generic hooks that could belong to any company.
+
+### Avoid:
+
+- “Here’s what most studios get wrong.”
+- “This is the mistake nobody talks about.”
+- “If you work in production, read this.”
+- “The future of IT is changing fast.”
+- “Security is more important than ever.”
+- “Let’s talk about why this matters.”
+
+These are broad and overused.
+
+### Prefer hooks that name the real issue:
+
+- “Downtime in post-production rarely comes from one isolated failure.”
+- “TPN readiness is easier to manage when security controls reflect the real workflow.”
+- “Internal tools become more valuable when teams are spending too much time rebuilding the same production view from disconnected systems.”
+- “Workstation performance affects more than render speed. It affects whether artists can keep moving during deadline pressure.”
+
+The opening should give the reader a reason to continue.
+
+---
+
+## 6. Do Not Turn Every Post Into a Mini Article
+
+Social posts should be concise.
+
+They should not summarize every section of the article.
+
+A strong post usually does one of the following:
+
+- highlights one useful insight
+- frames one operational problem
+- shares one practical takeaway
+- introduces the article topic clearly
+- explains why the topic matters to production teams
+- connects a technical issue to a business or workflow outcome
+
+Avoid trying to include every idea from the article.
+
+If the post feels like a compressed article outline, simplify it.
+
+---
+
+## 7. Keep Posts Specific to the Business Unit
+
+Each post should reflect the correct business-unit context.
+
+### Managed Services
+
+Focus on infrastructure stability, uptime, support, scalability, production continuity, and operational resilience.
+
+### Software Services
+
+Focus on workflow systems, production tracking, automation, integrations, internal tools, and how teams actually work.
+
+### Security & Compliance
+
+Focus on content protection, TPN readiness, access control, endpoint visibility, audit preparation, secure collaboration, and production-aware risk reduction.
+
+### VFXNOW
+
+Focus on production-ready hardware, compute performance, rendering, workstations, configuration, creative deadlines, and execution.
+
+If a post could apply to any IT company, software agency, cybersecurity vendor, or hardware reseller, it is not specific enough.
+
+---
+
+## 8. Avoid Overly Promotional Language
+
+GPL social content should educate and clarify before it sells.
+
+### Avoid:
+
+- “GPL is the perfect partner for your studio.”
+- “Our world-class team delivers best-in-class solutions.”
+- “We help studios unlock their full potential.”
+- “Choose GPL for all your technology needs.”
+- “Let us transform your workflow.”
+
+### Prefer:
+
+- “GPL Technologies helps media and entertainment teams assess infrastructure, security, and workflow challenges before they interrupt production.”
+- “For studios managing complex production environments, the right support model can reduce friction without slowing the work.”
+- “GPL works with production teams to align technology decisions with uptime, security, scalability, and workflow continuity.”
+
+The post should feel consultative, not sales-driven.
+
+---
+
+## 9. Avoid Generic IT Language
+
+Replace broad claims with operational language.
+
+### Generic:
+
+> Strong IT support helps companies work better.
+
+### Better:
+
+> In production environments, IT support needs to account for deadlines, remote artists, storage demands, render workloads, and the systems that keep work moving.
+
+### Generic:
+
+> Automation improves efficiency.
+
+### Better:
+
+> Automation is most useful when it removes repetitive coordination work from teams already managing production pressure.
+
+### Generic:
+
+> Security protects your business.
+
+### Better:
+
+> Production-aware security protects sensitive assets while keeping collaboration practical for teams, vendors, and remote contributors.
+
+The more specific the post is to production environments, the stronger it becomes.
+
+---
+
+## 10. Avoid Repeating the Article Title Without Adding Value
+
+If the post only restates the article headline, it is too thin.
+
+### Weak:
+
+> Our latest article explains how managed services help studios reduce downtime without slowing production.
+
+### Stronger:
+
+> Downtime in production environments is not always caused by a major system failure. It can build through delayed support, unclear escalation paths, aging systems, and infrastructure that no longer reflects how the team works.
+
+The article title can be included, but the post should add a useful angle.
+
+---
+
+## 11. Use One Clear Idea Per Post
+
+Each social post should have one main point.
+
+Avoid combining too many ideas, such as:
+
+- downtime
+- security
+- cloud workflows
+- vendor access
+- infrastructure planning
+- compliance
+- automation
+
+A post with too many ideas becomes vague.
+
+Before finalizing, ask:
+
+- What is the one idea this post is trying to communicate?
+- Is that idea clear in the first few lines?
+- Does every sentence support that idea?
+- Can anything be cut?
+
+Shorter and sharper is usually stronger.
+
+---
+
+## 12. LinkedIn-Specific Review Rules
+
+LinkedIn posts should be professional, useful, and slightly conversational.
+
+They can have more personality than an article, but they should not become casual or overly dramatic.
+
+### LinkedIn posts should:
+
+- open with a specific operational observation
+- explain why the topic matters
+- connect the idea to production environments
+- include the article link or CTA naturally
+- avoid excessive hashtags
+- avoid motivational phrasing
+- avoid exaggerated claims
+
+### LinkedIn posts should not:
+
+- sound like personal branding content
+- overuse line breaks for drama
+- use fake urgency
+- ask obvious engagement questions
+- rely on buzzwords
+- use emojis unless specifically approved
+
+A good LinkedIn post should make a technical or operational reader think, “Yes, that is a real issue.”
+
+---
+
+## 13. Reddit-Specific Review Rules
+
+Reddit requires a different approach from LinkedIn.
+
+Reddit users are more skeptical of promotional content. Posts should be helpful, direct, and community-aware.
+
+### Reddit posts should:
+
+- feel practical and discussion-oriented
+- avoid obvious sales language
+- avoid corporate phrasing
+- provide value before mentioning GPL
+- sound like a person sharing a useful perspective
+- respect the rules and tone of the specific subreddit
+
+### Reddit posts should not:
+
+- read like an ad
+- push services directly
+- use marketing claims
+- overstate expertise
+- copy LinkedIn language directly
+- include a CTA unless the subreddit allows it
+
+For Reddit, the post should feel more like a useful contribution to a professional conversation than a company announcement.
+
+---
+
+## 14. Avoid Using the Same Structure Six Times Per Day
+
+If multiple posts are being created in one day, they should not all follow the same pattern.
+
+Avoid repeating this structure:
+
+1. Broad hook
+2. Problem statement
+3. Three short bullets
+4. Article CTA
+
+Instead, vary the format.
+
+Possible post formats include:
+
+- one operational insight from the article
+- one common production challenge
+- one short explanation of why the topic matters
+- one question framed for technical decision-makers
+- one practical takeaway
+- one short excerpt-style summary
+- one problem-and-implication post
+- one post focused on the business impact
+
+The content should feel intentional, not mass-produced.
+
+---
+
+## 15. Reduce List-Heavy Posts
+
+Lists can be useful, but they should not become the default.
+
+### Avoid:
+
+> Studios need:
+> - better infrastructure
+> - stronger security
+> - faster support
+> - scalable workflows
+> - better visibility
+
+This feels generic.
+
+### Prefer:
+
+> As studios scale, the support model has to account for more than help desk response. It needs to reflect how production teams work, where bottlenecks appear, and which systems need to stay available for the work to continue.
+
+Use bullets only when they make the post easier to read.
+
+---
+
+## 16. Make the CTA Natural
+
+Social CTAs should be light and relevant.
+
+### Avoid:
+
+- “Contact us today.”
+- “Reach out now.”
+- “Let GPL transform your workflow.”
+- “Click below to learn how we can help.”
+
+### Prefer:
+
+- “Read the full article here.”
+- “The full article looks at how this shows up in production environments.”
+- “We explore the issue in more detail here.”
+- “For studios evaluating this internally, the full article breaks down what to look for.”
+
+The CTA should not overpower the insight.
+
+---
+
+## 17. Hashtag Guidance
+
+Use hashtags sparingly.
+
+A few relevant hashtags are better than a long list.
+
+Recommended hashtag categories:
+
+- media and entertainment
+- post-production
+- VFX
+- studio infrastructure
+- managed services
+- cybersecurity
+- TPN compliance
+- production workflows
+- cloud workflows
+
+Avoid broad or low-value hashtags such as:
+
+- #success
+- #innovation
+- #businessgrowth
+- #futureofwork
+- #digitaltransformation
+
+Hashtags should support discoverability without making the post feel generic.
+
+---
+
+## 18. Social Post Review Checklist
+
+Before submitting any LinkedIn or Reddit post, check the following:
+
+1. Does the post sound like GPL?
+2. Is the main idea clear?
+3. Does it connect to real production environments?
+4. Is it specific to the right business unit?
+5. Does it avoid generic IT or marketing language?
+6. Does it avoid exaggerated claims?
+7. Does it avoid LinkedIn guru phrasing?
+8. Does it avoid unnecessary contrast framing?
+9. Does it avoid too many short dramatic lines?
+10. Does it give the reader something useful?
+11. Does it avoid summarizing the entire article?
+12. Is the CTA natural and low-pressure?
+13. Would a technical or operational decision-maker find it credible?
+14. Does it feel written by a person, not generated from a template?
+15. If this is for Reddit, does it avoid sounding like an ad?
+
+If the answer to any of these is no, revise before sending the post for review.
+
+---
+
+## 19. Common Before and After Patterns
+
+### Pattern 1: Generic LinkedIn hook
+
+Before:
+
+> In today’s fast-moving production world, downtime is not an option.
+
+After:
+
+> In post-production, downtime can start long before a system fully fails. Delayed support, unclear escalation paths, and aging infrastructure can all create friction before the team sees a major disruption.
+
+---
+
+### Pattern 2: Too promotional
+
+Before:
+
+> GPL Technologies provides best-in-class managed services to help studios stay ahead.
+
+After:
+
+> For studios managing active production environments, managed services need to support uptime, scalability, and fast issue resolution without adding friction to the workflow.
+
+---
+
+### Pattern 3: Too much article summary
+
+Before:
+
+> This article covers downtime, infrastructure, support models, production workflows, scalability, and how managed services can help studios improve operations.
+
+After:
+
+> The strongest support models are built around how production actually moves: which systems are critical, where delays tend to appear, and how quickly the team needs issues resolved.
+
+---
+
+### Pattern 4: Too generic for Security & Compliance
+
+Before:
+
+> Security is critical for every modern business.
+
+After:
+
+> In media and entertainment, security has to protect sensitive content while still allowing artists, vendors, and production teams to collaborate without unnecessary delays.
+
+---
+
+### Pattern 5: Too generic for Software Services
+
+Before:
+
+> Custom software helps teams improve efficiency.
+
+After:
+
+> Internal tools become valuable when teams are spending too much time working around disconnected systems, manual updates, or production tracking gaps.
+
+---
+
+### Pattern 6: Too generic for VFXNOW
+
+Before:
+
+> High-performance computers help creative teams work faster.
+
+After:
+
+> For VFX and post-production teams, workstation performance affects whether artists can keep working smoothly through rendering, simulation, compositing, and review cycles.
+
+---
+
+## 20. Suggested Prompt for Post-Draft Social Review
+
+Use this prompt after creating a first draft of LinkedIn or Reddit posts:
+
+> Review these social posts using the GPL Technologies Social Content Editorial Review Layer. Keep the GPL writing style and business-unit context intact. Revise the posts so they sound specific, useful, production-aware, and human. Remove generic LinkedIn phrasing, exaggerated claims, empty hooks, excessive hashtags, promotional language, and AI-sounding patterns. Make sure each post has one clear idea, reflects the correct business unit, and connects technology to real production workflows. If the post is for Reddit, make it less promotional and more discussion-oriented.
+
+---
+
+## 21. Final Editorial Rule
+
+If the post sounds like it was created to fill a content quota, rewrite it.
+
+If the hook could apply to any company, make it more specific.
+
+If the post sounds like a motivational LinkedIn post, make it more operational.
+
+If the post sounds like an ad, make it more useful.
+
+If the post repeats the article title without adding insight, rebuild it around one specific takeaway.
+
+The final post should feel clear, credible, and relevant to people responsible for keeping production environments running.
