@@ -1,0 +1,628 @@
+# GPL Technologies — Editorial Review Layer
+
+## Purpose
+
+This document defines the editorial review process for GPL Technologies articles after a first draft has been written.
+
+It should be used together with:
+
+* the GPL Technologies project context
+* the relevant business-unit source document
+* the article assignment brief
+* the GPL Technologies Brand Writing Style Guide
+
+The writing style guide defines how GPL content should sound from the beginning. This editorial review layer defines how to revise drafts after they exist, especially when they sound too generic, too list-heavy, too artificial, or too much like an outline expanded into paragraphs.
+
+The goal is to make every article sound like it was reviewed by a sharp human editor who understands the audience, the business unit, and the operational realities of production environments.
+
+---
+
+# 1. Editorial Standard
+
+A GPL article should feel:
+
+* clear
+* practical
+* informed
+* specific
+* calm
+* production-aware
+* technically credible
+* respectful of the reader’s knowledge
+* written by a human editor, not generated from a template
+
+A GPL article should not feel:
+
+* padded
+* repetitive
+* generic
+* dramatic
+* hand-holding
+* list-heavy
+* overly polished in an artificial way
+* like a TED Talk
+* like a service catalog unless the assignment requires one
+* like AI-generated content that has been lightly edited
+
+The article should sound useful to a technically informed reader. It should not sound like the writer is trying to prove basic familiarity with the industry.
+
+---
+
+# 2. First Review Question
+
+Before editing sentence by sentence, answer this question:
+
+**Does the article sound like a senior person thinking through the issue, or does it sound like an outline expanded into paragraphs?**
+
+If the draft feels like an expanded outline, do not perform a light edit. Rebuild the affected sections around stronger editorial logic.
+
+Common signs of expanded-outline writing include:
+
+* repeated section structures
+* broad claim followed by example chains
+* short statements stacked together
+* obvious explanations of basic production realities
+* paragraphs that end by telling the reader why the point matters
+* sections that restate the same idea with different examples
+
+A polished draft is not necessarily a strong draft. If the article is clean but generic, it still needs editorial work.
+
+---
+
+# 3. Connected Reasoning Review
+
+## Core Rule
+
+GPL articles should use connected reasoning. The prose should show how one idea leads to the next through cause, sequence, dependency, and consequence.
+
+Review for paragraphs that feel like separate statements placed next to each other. These paragraphs may be grammatically correct, but they often sound mechanical because the logic does not flow through the sentence structure.
+
+Weak pattern:
+
+> Studio infrastructure changes because production requires it. A decision made to keep a project moving can remain in place after the project has moved on. At first, that may not create an obvious problem. The environment keeps working. The team knows how to operate around it. Over time, the reasoning behind those decisions becomes harder to trace.
+
+Stronger pattern:
+
+> Studio infrastructure changes because production requires it, and decisions made to keep one project moving can easily remain in place after the project has moved on. At first, that may not create an obvious problem because the environment still works and the team knows how to operate around it. The issue is that, over time, the reasoning behind those decisions becomes harder to trace, which makes the environment more difficult to support with confidence.
+
+The stronger version works because the sentence carries the logic. It does not force every idea into its own short statement.
+
+## What to Fix
+
+When reviewing a draft, look for places where the writing would improve with connective language such as:
+
+* because
+* and
+* as
+* when
+* so
+* which means
+* over time
+* in practice
+* as a result
+* by the time
+* the issue is that
+* the difficulty is that
+* this becomes more important when
+
+Do not add these words mechanically. Use them to make the reasoning more natural and less segmented.
+
+---
+
+# 4. Statement Stacking
+
+One of the clearest signs of AI-generated writing is a paragraph made of several short, polished statements.
+
+## Avoid
+
+> The system still works.
+> The team adapts.
+> The project moves forward.
+> The risk grows quietly.
+
+This rhythm feels staged and mechanical.
+
+## Prefer
+
+> The system may continue to work for a long time because the team adapts around it, but that adaptation can also make the environment harder to document, support, and change with confidence.
+
+Short sentences are allowed, but they should be used intentionally. They should not become the default rhythm of the article.
+
+During review, combine related short sentences when they describe the same logic, cause, or consequence.
+
+---
+
+# 5. Claim + List + Consequence Pattern
+
+A common AI-writing pattern is:
+
+1. Make a broad claim.
+2. List examples.
+3. Explain that the examples create risk.
+4. End with a sentence telling the reader why it matters.
+
+This structure can sound junior, especially when repeated across multiple sections.
+
+## Weak Pattern
+
+> Creative studios accumulate IT debt over time. A storage exception, a vendor access request, a pipeline workaround, and a support escalation can all create complexity. These issues may seem small at first. For growing studios, this becomes a serious operational risk.
+
+## Stronger Pattern
+
+> Creative studios accumulate IT debt when production decisions remain in place after the original need has passed. The environment may continue to function, but the reasoning behind certain access, support, or infrastructure decisions becomes harder to trace, which makes the studio more dependent on memory than on a clear operating model.
+
+The stronger version does not rely on a long list of examples because the operational logic is already clear.
+
+During review, flag any paragraph that appears to be proving a basic point through a list. Replace the list with a clearer explanation of the pattern.
+
+---
+
+# 6. Reduce List-Heavy Explanation
+
+Lists can be useful, but GPL articles should not rely on long example chains to prove every point.
+
+The reader is informed. Do not list every possible workflow, system, role, or risk unless the assignment specifically calls for a practical catalog or checklist.
+
+## Avoid
+
+> Access may expand during a project and stay open after the work changes. Files may move through faster paths when approved systems slow collaboration down. Remote devices may be added before they are fully visible to IT or security teams.
+
+## Prefer
+
+> As production changes, the way teams access, move, and manage sensitive content can drift away from the controls the studio expects to rely on.
+
+Use one strong example when it clarifies the point. Do not include several versions of the same idea.
+
+A paragraph should not feel like it is saying, “Look, I know the industry.” It should feel like it understands the operating pattern.
+
+---
+
+# 7. Assume the Reader Is Smart
+
+GPL content is written for technically informed readers, including IT directors, infrastructure leaders, pipeline stakeholders, security leads, studio operations teams, and production decision-makers.
+
+Do not explain obvious production realities.
+
+## Avoid
+
+> Creative teams often work under tight deadlines, which means systems need to be reliable.
+
+## Prefer
+
+> In production environments, reliability has to be evaluated by how well the system supports active work under deadline, not only by whether the system is technically online.
+
+The first version explains something the reader already knows. The second version adds a more useful operational lens.
+
+During review, remove sentences that explain the obvious unless they are needed for context.
+
+---
+
+# 8. Remove Hand-Holding
+
+Hand-holding happens when the article walks the reader through every implication instead of trusting them to understand the point.
+
+## Avoid
+
+> A temporary transfer link or informal review share may solve an immediate production problem, but it can also move sensitive content outside the systems the studio expects to monitor and control. These workarounds are easy to normalize because they usually help the work move faster. If a team gets a review done on time or delivers a file without delay, the process may feel successful.
+
+## Prefer
+
+> A temporary transfer link or informal review share may solve an immediate production problem, but it can also move sensitive content outside the systems the studio expects to monitor and control. The risk is easy to miss because the workaround often appears to work: the review happens, the file gets delivered, and production keeps moving.
+
+The stronger version keeps the useful logic and removes unnecessary explanation.
+
+During review, ask whether the reader can infer the point. If yes, cut the extra explanation.
+
+---
+
+# 9. Avoid TED Talk-Style Lines
+
+Avoid sentences that sound like staged insight.
+
+These often appear as short, dramatic statements at the end of a paragraph or section.
+
+## Avoid
+
+> These symptoms matter.
+> But they do not always point to the real issue.
+> The issue is hidden inside the workflow.
+
+## Avoid
+
+> The goal is not to replace systems.
+> The goal is to make them work better together.
+
+## Avoid
+
+> These patterns do not always look urgent.
+> That is what makes them easy to miss.
+
+These lines may sound polished, but they often feel artificial.
+
+## Prefer
+
+> Often, the report is where the problem becomes visible, but the friction comes from the systems behind it not sharing information consistently.
+
+## Prefer
+
+> Automation is most useful when it takes repetitive coordination work off the plate of teams already managing production pressure.
+
+The stronger versions explain the idea directly instead of staging it as a dramatic reveal.
+
+---
+
+# 10. Avoid Unnecessary Contrast Framing
+
+GPL writing should avoid artificial contrast structures, especially when they are used to create fake emphasis.
+
+Avoid repeated patterns such as:
+
+* “not X, but Y”
+* “the problem is not X, it is Y”
+* “this is not about X”
+* “these are not signs of X, they are signs of Y”
+* “the goal is not X, the goal is Y”
+* “the question is not whether X, but whether Y”
+
+These constructions can be useful occasionally, but they become AI-like when repeated.
+
+## Weak
+
+> The problem is not the tools themselves. It is how they are configured.
+
+## Stronger
+
+> The problem usually comes from how tools are configured within the workflow.
+
+## Weak
+
+> Managed Services is not about fixing tickets. It is about supporting production continuity.
+
+## Stronger
+
+> Managed Services supports production continuity by giving studios a more structured way to manage systems, support issues, access, and infrastructure changes.
+
+During review, rewrite contrast framing as direct operational explanation whenever possible.
+
+---
+
+# 11. Cut Repetition Between Sections
+
+Each section should add a new layer to the article.
+
+If several sections repeat the same logic with different examples, consolidate or cut.
+
+Repeated logic often looks like this:
+
+> Production moves fast.
+> Teams create workarounds.
+> Controls drift.
+> Risk becomes harder to see.
+> Studios should review the environment.
+
+This may be true, but if every section follows that pattern, the article becomes repetitive.
+
+Before finalizing, ask:
+
+* Does this section add a distinct idea?
+* Is this section repeating something already explained?
+* Can two sections be combined?
+* Is this really a separate point, or is it part of another section?
+* Would the article be stronger with fewer sections?
+
+Shorter is better than padded.
+
+---
+
+# 12. Make Sections Distinct
+
+When an article uses multiple sections, each section must have a clear editorial job.
+
+For example, in a Security & Compliance article:
+
+* access permissions should focus on who has access and whether that access still reflects current work
+* file movement should focus on how sensitive content moves through the environment
+* endpoint visibility should focus on which devices touch content and whether they are known and protected
+* documentation should focus on whether the written record matches the live environment
+* vendor collaboration should focus on how the security boundary extends beyond the internal team
+
+If two sections could trade headings without changing much, the structure is weak.
+
+During review, rename, combine, or rebuild sections until each one adds something distinct.
+
+---
+
+# 13. Replace Generic Language With Operational Language
+
+Avoid broad statements that could apply to any IT, security, software, or hardware company.
+
+## Generic
+
+> Strong security depends on clear policies and consistent implementation.
+
+## Better
+
+> Strong security depends on controls that can hold up inside the pace, collaboration, and complexity of active production.
+
+## Generic
+
+> Workflow automation improves efficiency.
+
+## Better
+
+> Automation is most useful when it takes repetitive coordination work off the plate of teams already managing production pressure.
+
+Always connect the idea to the operating reality of the relevant business unit.
+
+---
+
+# 14. Business Unit Relevance
+
+This editorial layer applies across GPL business units, but each article still needs to reflect the correct business-unit context.
+
+## Managed Services
+
+Content should connect to infrastructure stability, uptime, support models, scalability, access, vendor coordination, system ownership, remote work, storage, and production continuity.
+
+Avoid generic MSP language.
+
+## Software Services
+
+Content should connect to workflow systems, production tracking, automation, integrations, custom tools, reporting visibility, internal systems, and how teams actually work.
+
+Avoid generic software agency language.
+
+## Security & Compliance
+
+Content should connect to production-aware security, content protection, access control, endpoint visibility, vendor collaboration, TPN readiness, secure workflows, and operational risk.
+
+Avoid generic cybersecurity language.
+
+## VFXnow
+
+Content should connect to production-ready hardware, compute performance, rendering, workstations, configuration, deadlines, rental hardware, real-time workflows, and creative execution.
+
+Avoid generic hardware reseller language.
+
+If the article could apply to any provider in the category, it is not specific enough.
+
+---
+
+# 15. Use Analogies Carefully
+
+Analogies can make writing feel more human, but they should be used sparingly.
+
+For GPL, analogies should be practical, subtle, and useful. They should clarify the topic without sounding theatrical.
+
+## Acceptable
+
+> Internal tools are often the connective layer between the larger systems a studio already uses.
+
+This works because it explains the role clearly.
+
+## Avoid
+
+> Internal tools are the unsung heroes of production.
+
+This sounds like content marketing filler.
+
+Use analogies only when they earn their place.
+
+---
+
+# 16. CTA Review
+
+GPL articles should usually have one clear CTA at the end.
+
+Mid-article CTAs often interrupt the flow and make the article feel like a landing page instead of an editorial piece.
+
+## Avoid
+
+> CTA: Explore Workflow Strategy in Production Environments
+
+## Prefer
+
+> If your studio is evaluating where security risk may be forming across production workflows, GPL Technologies can help assess the environment and identify practical steps forward.
+
+A CTA should feel consultative and natural. It should not repeat the article in sales language.
+
+---
+
+# 17. FAQ Review
+
+FAQs should support AEO, but they should not become mini-articles.
+
+A strong FAQ answer should:
+
+* answer the question directly
+* stay concise
+* avoid repeating the full article
+* use clear terminology
+* reinforce GPL’s subject matter relevance
+
+## Avoid
+
+Long FAQ answers with multiple paragraphs that restate every section.
+
+## Prefer
+
+> A studio may need an internal production tool when teams rely on manual updates, scattered information, or repeated workarounds to manage production. These patterns often show that the core systems still work, but the workflow around them needs better support.
+
+Two short paragraphs are usually enough. One paragraph is often better.
+
+---
+
+# 18. Common Before and After Patterns
+
+## Pattern 1: Too Many Examples
+
+### Before
+
+> A vendor needs access quickly. A file has to move before the next review. A remote artist needs to keep working without delay. A project changes, but the access model, documentation, or device inventory does not change with it.
+
+### After
+
+> Security risk in production environments often starts with practical decisions made under pressure. Teams grant access quickly, move files through the fastest available path, and adjust workflows as projects change.
+
+---
+
+## Pattern 2: Too Much Hand-Holding
+
+### Before
+
+> These practices are rarely intentional security violations. They emerge when production timelines require immediate access to large assets, review cycles move quickly, or cross-location collaboration needs flexibility.
+
+### After
+
+> These workarounds usually come from production pressure, not careless intent, which makes them easy to normalize before anyone has reviewed the risk.
+
+---
+
+## Pattern 3: Contrast Framing
+
+### Before
+
+> The goal is not to automate creative judgment. It is to remove repetitive coordination work from the people who are already managing production pressure.
+
+### After
+
+> Automation is most useful when it takes repetitive coordination work off the plate of teams already managing production pressure.
+
+---
+
+## Pattern 4: Repeating the Section Back to the Reader
+
+### Before
+
+> A dashboard can reduce reporting effort. An automation utility can remove repetitive steps. An integration can help production and technical teams share better context. A focused workflow layer can help an existing platform match the way the studio actually operates.
+
+### After
+
+> The strongest internal tools solve the part of the workflow that has become too manual, too scattered, or too difficult to manage at scale.
+
+---
+
+## Pattern 5: Generic Closing
+
+### Before
+
+> The goal is sustained protection of content, stable collaboration across teams, and improved alignment between documented security posture and real operational behavior.
+
+### After
+
+> When security controls reflect how production actually works, teams are better positioned to protect sensitive assets without slowing the workflow they are responsible for supporting.
+
+---
+
+## Pattern 6: Disconnected Reasoning
+
+### Before
+
+> Studio infrastructure changes because production requires it. The environment keeps working. Teams adapt. Over time, the structure becomes harder to explain.
+
+### After
+
+> Studio infrastructure changes because production requires it, and the environment may continue to work for a long time because teams adapt around it. Over time, that adaptation can make the structure harder to explain, which makes the environment more difficult to support with confidence.
+
+---
+
+# 19. Editorial Review Checklist
+
+Before submitting a draft, review it against these questions.
+
+## Human Editorial Quality
+
+* Does the article sound like a human editor revised it?
+* Does it sound like a senior person thinking through the issue?
+* Does it avoid sounding like an outline expanded into paragraphs?
+
+## Connected Reasoning
+
+* Do the sentences carry logic through cause, sequence, and consequence?
+* Are too many ideas broken into short, disconnected statements?
+* Could related short sentences be combined into stronger, more natural prose?
+* Does the paragraph flow, or does it feel assembled?
+
+## Reader Respect
+
+* Does the article assume the reader is informed?
+* Does it avoid explaining basic production realities?
+* Does it avoid proving expertise through long example chains?
+
+## List Discipline
+
+* Are there too many examples or lists?
+* Is the article relying on examples to prove basic points?
+* Could a paragraph be stronger if half the examples were removed?
+
+## Section Value
+
+* Does each section add something distinct?
+* Are sections repeating the same idea in different language?
+* Could two sections be combined?
+* Would the article be stronger with fewer sections?
+
+## Tone
+
+* Does the article sound calm, senior, and technically credible?
+* Does it avoid hype, buzzwords, and generic provider language?
+* Does it sound consultative rather than promotional?
+
+## Contrast Framing
+
+* Does the article rely on “not X, but Y” constructions?
+* Are there repeated dramatic contrasts that could be rewritten directly?
+* Would the point sound stronger as a single operational statement?
+
+## Business Unit Fit
+
+* Does the article reflect the correct GPL business unit?
+* Does it connect technical topics to real production workflows?
+* Could this article apply unchanged to a generic provider?
+
+---
+
+# 20. When to Rebuild Instead of Edit
+
+Some drafts should not be lightly edited.
+
+Rebuild a section when:
+
+* the opening uses a generic industry setup
+* the section is built from a bullet in the assignment rather than a real editorial idea
+* the paragraph relies on a list to explain the point
+* the writing is accurate but obvious
+* the section repeats logic already covered elsewhere
+* the prose sounds polished but empty
+* the reader is being walked through basic implications
+* the section ends with a staged insight line
+
+A rebuild should preserve the useful idea while changing the structure of the reasoning.
+
+Do not keep a weak paragraph because the facts are correct. If the rhythm, logic, or tone is wrong, rewrite it.
+
+---
+
+# 21. Suggested Post-Draft Review Prompt
+
+Use this prompt after generating a first draft:
+
+> Review this article using the GPL Technologies Editorial Review Layer. Keep the business-unit context and GPL writing style intact, but revise for human editorial quality. Remove AI-sounding patterns, reduce hand-holding, avoid TED Talk-style lines, eliminate unnecessary contrast framing, reduce list-heavy examples, and make each section more distinct. Assume the reader is technically informed. Use connected reasoning so sentences carry cause, sequence, dependency, and consequence. Do not pad for length. If a section repeats another section or sounds like an expanded outline bullet, consolidate or rebuild it.
+
+---
+
+# 22. Final Editorial Rule
+
+If a sentence sounds like it is trying to sound insightful, rewrite it plainly.
+
+If a paragraph feels like claim + list + consequence, rebuild it around the operational logic.
+
+If a section proves the same point three different ways, cut or consolidate it.
+
+If the article feels polished but not useful, make it more specific.
+
+If the writing sounds like a template, rebuild the paragraph around how the work actually happens.
+
+A successful GPL article should feel calm, clear, practical, and informed. It should respect the reader’s intelligence, use connected reasoning, and sound like it was written by someone who understands the operational pressure of production environments.
+
+It should never feel like AI-generated content that has been lightly edited.
