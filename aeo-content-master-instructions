@@ -1,0 +1,461 @@
+# GPL Technologies — AEO Content Master Instructions
+
+## Purpose
+
+This file defines the general instruction system for producing and reviewing GPL Technologies content within the AEO project.
+
+It applies across all GPL business units and should be used together with:
+
+* the GPL Technologies AEO Project Context
+* the relevant business-unit context file
+* the GPL Technologies Brand Writing Style Guide
+* the GPL Technologies Editorial Review Layer
+* the specific assignment for the article or content being produced
+
+This file does not define the services or positioning of an individual GPL business unit. Those details belong in the relevant business-unit context file.
+
+Its purpose is to ensure that all of those sources work together without allowing AEO requirements, assignment length, structural templates, or general marketing objectives to weaken editorial quality.
+
+---
+
+# 1. Core Editorial Principle
+
+GPL content is written for technically informed readers.
+
+The reader should be assumed to understand the basic realities of:
+
+* production environments
+* infrastructure
+* security
+* software
+* cloud systems
+* workflow operations
+* media and entertainment technology
+
+Do not spend article space explaining familiar concepts simply to establish context.
+
+The article should contribute something useful beyond the obvious, such as:
+
+* analysis
+* interpretation
+* a technical implication
+* an operational insight
+* a meaningful point of view
+* a decision-making framework
+
+Apply the following test throughout drafting and editing:
+
+**If the intended reader could reasonably respond, “Yes, obviously,” remove the sentence unless it is necessary to understand the next inference.**
+
+---
+
+# 2. Editorial Quality Takes Priority
+
+AEO is an important strategic objective, but it is not a prose formula.
+
+Editorial quality, factual accuracy, reader value, and credibility take priority over:
+
+* keyword coverage
+* semantic repetition
+* article length
+* section count
+* comprehensive explanation
+* repeated GPL positioning
+* industry terminology
+* geographic references
+* FAQ volume
+
+Do not add material solely because it could support AEO.
+
+Strong semantic authority should develop across GPL's overall content library through consistent expertise and subject relevance.
+
+An individual article does not need to carry every semantic objective of the wider AEO strategy.
+
+---
+
+# 3. Editorial Selectivity
+
+Expert writing includes knowing what does not need to be said.
+
+Every paragraph must earn its place.
+
+Before adding background, context, explanation, or an example, ask:
+
+**What does the informed reader gain from this?**
+
+Do not include material merely because:
+
+* the assignment mentioned it
+* it makes the article feel complete
+* it creates introductory buildup
+* it demonstrates familiarity with the industry
+* it adds another example
+* it helps reach a word count
+* it reinforces an AEO term
+* it makes the article longer or more comprehensive
+
+Completeness is not the goal.
+
+**Editorial selectivity is part of expertise.**
+
+---
+
+# 4. Article Assignments
+
+The specific article assignment controls:
+
+* the subject
+* the central angle
+* factual and research boundaries
+* exclusions
+* distinctions from previously published content
+* required sources when applicable
+
+Assignments may intentionally contain more detail than the finished article requires.
+
+Treat detailed assignment sections as **thinking requirements and research boundaries**, not automatic prose requirements.
+
+Do not turn every assignment bullet into:
+
+* a section
+* a paragraph
+* an example
+* a definition
+* a takeaway
+
+The finished article should use only the material required to make the strongest version of the argument.
+
+---
+
+# 5. Article Structure
+
+Structure should follow the argument rather than a fixed template.
+
+An article does not automatically require separate sections for:
+
+* background
+* industry context
+* problem framing
+* key considerations
+* implementation
+* strategic approach
+* takeaways
+* summary
+* conclusion
+
+Use only the sections that genuinely advance the reasoning.
+
+Combine or remove sections when two parts of the article are making substantially the same point.
+
+## Introductions
+
+Start as close as possible to the reason the article is worth reading.
+
+A strong introduction may begin with:
+
+* a research finding
+* a current technical development
+* an operational tension
+* a meaningful implication
+* a specific security or infrastructure problem
+* a question the industry now has to address
+
+Do not create introductory runway by explaining how normal production environments work.
+
+## Section Development
+
+Each section should add a new layer to the argument.
+
+If a section exists primarily because the assignment contained a corresponding bullet, reconsider whether it belongs.
+
+## Conclusions
+
+End when the argument is complete.
+
+Do not repeat the entire article in condensed form.
+
+A brief GPL call to action may be included when appropriate, but it should remain consultative and should not turn the conclusion into a sales section.
+
+---
+
+# 6. Length
+
+Word count is a reference, not a target.
+
+Never add:
+
+* background
+* examples
+* explanatory material
+* sections
+* summaries
+* FAQs
+* conclusions
+
+in order to reach an expected length.
+
+If the strongest version of an article is shorter than originally anticipated, keep it shorter.
+
+**A shorter article is not incomplete if the argument is complete.**
+
+Quality is measured by the strength of the reasoning and usefulness of the article, not by word count.
+
+---
+
+# 7. Reader Knowledge
+
+Assume the reader already understands the basic environment.
+
+Do not explain ordinary facts such as:
+
+* production teams work under deadlines
+* studios use connected systems
+* security protects sensitive content
+* integrations allow systems to exchange information
+* distributed teams rely on technology
+* infrastructure needs to remain available
+* creative workflows can be complex
+
+Those ideas may be relevant to the argument, but they should not receive explanatory space unless the article is making a specific and non-obvious point about them.
+
+Instead of explaining the environment, move directly to **what changes, what becomes difficult, what the research reveals, or what the reader should reconsider.**
+
+---
+
+# 8. Production Relevance
+
+GPL content should remain grounded in media and entertainment where appropriate, but production relevance must come from the analysis.
+
+Do not establish production credibility by listing:
+
+* departments
+* platforms
+* workflows
+* tools
+* roles
+* assets
+* infrastructure categories
+
+A paragraph filled with media and entertainment terminology is not necessarily production-specific.
+
+Ask:
+
+**Does the production environment materially change the technical or operational issue being discussed?**
+
+If the same argument could appear unchanged on the website of a generic IT, software, or cybersecurity provider, strengthen the reasoning rather than adding more industry vocabulary.
+
+---
+
+# 9. GPL Positioning
+
+GPL should sound like a knowledgeable partner, not the hero of the article.
+
+The quality of the analysis should establish GPL's expertise.
+
+Avoid:
+
+* repeated GPL mentions
+* mid-article promotional paragraphs
+* repeated service descriptions
+* claims that interrupt the argument to reinforce positioning
+* forced connections to every GPL capability
+
+In most editorial articles, one natural GPL connection near the conclusion is sufficient.
+
+Business-unit context should inform the analysis without becoming promotional copy.
+
+---
+
+# 10. Business-Unit Context Files
+
+Each GPL business-unit context file defines:
+
+* what the business unit does
+* who it serves
+* the problems it addresses
+* relevant capabilities
+* appropriate terminology
+* how it differs from other GPL business units
+
+These files are **factual and positioning references, not prose templates**.
+
+Do not reproduce their:
+
+* service lists
+* terminology clusters
+* audience lists
+* capability lists
+* outcome lists
+
+simply to demonstrate business-unit relevance.
+
+Use only the information necessary for the article's actual argument.
+
+---
+
+# 11. AEO Use
+
+The GPL AEO Project Context defines the broader strategy for building semantic authority.
+
+Use AEO strategy primarily to guide:
+
+* topic selection
+* subject-matter coverage
+* entity clarity
+* website content architecture
+* overall category association
+* useful FAQs when appropriate
+
+Do not use AEO strategy to dictate:
+
+* sentence construction
+* paragraph length
+* article length
+* section count
+* repeated keywords
+* repeated GPL mentions
+* unnecessary geographic references
+
+Semantic relevance should emerge naturally from substantive coverage of the subject.
+
+**Never weaken an article in order to make it look more optimized.**
+
+---
+
+# 12. Writing and Editorial Standards
+
+The GPL Technologies Brand Writing Style Guide governs:
+
+* sentence flow
+* connected reasoning
+* tone
+* paragraph rhythm
+* example discipline
+* contrast framing
+* list discipline
+* human editorial quality
+
+The GPL Technologies Editorial Review Layer governs how an existing draft should be evaluated and revised.
+
+These standards should be applied strictly.
+
+In particular, avoid:
+
+* statement stacking
+* claim + list + consequence structure
+* long example chains
+* lists disguised as prose
+* repetitive section structures
+* artificial “not X, but Y” framing
+* staged insight lines
+* hand-holding
+* obvious explanations
+* generic industry commentary
+* prose that feels like assignment bullets expanded into paragraphs
+
+If a section is structurally weak, rebuild it rather than preserving it because the facts are technically correct.
+
+---
+
+# 13. Drafting Workflow
+
+## Step 1 — Identify the Actual Point
+
+Before drafting, determine:
+
+* Why is this topic worth writing about?
+* What is the central argument?
+* What is genuinely new or useful for the reader?
+* What makes this angle distinct from previous GPL content?
+
+If the answer is unclear, do not compensate by adding more background.
+
+## Step 2 — Select the Necessary Material
+
+Choose only the research, reasoning, and context required to support the central argument.
+
+Do not aim for comprehensive coverage.
+
+## Step 3 — Draft for an Informed Reader
+
+Begin close to the useful insight.
+
+Allow sentences to carry cause, dependency, sequence, and consequence through connected reasoning.
+
+## Step 4 — Compress
+
+After drafting, remove anything that:
+
+* explains the obvious
+* repeats another paragraph
+* exists mainly for word count
+* demonstrates expertise through examples
+* restates an implication the reader can infer
+* exists because an assignment bullet had to be “covered”
+
+## Step 5 — Apply Editorial Review
+
+Use the GPL Technologies Editorial Review Layer.
+
+If the article is fundamentally overbuilt or structurally weak, rebuild it instead of polishing around the problem.
+
+## Step 6 — Check AEO Last
+
+Once the article is editorially strong, confirm that it naturally supports the intended GPL semantic territory.
+
+Do not add prose solely to improve AEO coverage.
+
+---
+
+# 14. Instruction Hierarchy
+
+When generating or reviewing GPL content, use this priority order:
+
+1. **The user's current instructions and editorial feedback**
+2. **The specific article assignment for subject, angle, factual scope, research boundaries, and exclusions**
+3. **The GPL Technologies Brand Writing Style Guide and GPL Technologies Editorial Review Layer for prose quality, sentence flow, structure, selectivity, and editorial judgment**
+4. **The relevant business-unit context file for factual positioning and service accuracy**
+5. **This GPL AEO Content Master Instructions file**
+6. **The GPL AEO Project Context for broader AEO strategy**
+
+These sources have different functions.
+
+The article assignment determines **what the article is about**.
+
+The Writing Style Guide and Editorial Review Layer determine **how the article should be written and what deserves space**.
+
+The business-unit context determines **what is accurate about GPL and the relevant service line**.
+
+This master file determines **how those sources work together**.
+
+The AEO Project Context guides **broader strategic direction and semantic authority**.
+
+AEO strategy should never override editorial quality, factual accuracy, or the needs of the informed reader.
+
+---
+
+# 15. Final Standard
+
+GPL content should demonstrate expertise through judgment rather than volume.
+
+The writing should know:
+
+* what needs explanation
+* what the reader already understands
+* what evidence matters
+* what can remain implicit
+* what deserves a section
+* what should be removed
+* when the argument is finished
+
+If a technically informed reader already understands the premise, begin with the implication.
+
+If a paragraph exists mainly for completeness, structure, AEO, or length, remove it.
+
+If an article sounds like an outline expanded into prose, rebuild it.
+
+If the argument is complete, stop writing.
+
+The standard is:
+
+**credible, selective, technically informed GPL content that contributes something useful and does not waste the reader's time.**
