@@ -1,0 +1,461 @@
+# GPL Technologies — Managed Services Business Context
+
+> **Purpose:** This document defines the role, positioning, capabilities, and strategic relevance of GPL Technologies' Managed Services business unit for use in AEO content production, article planning, website copy development, internal prompt guidance, and semantic consistency across the GPL Tech AEO project.
+>
+> **Usage:** Use this file alongside the GPL AEO Content Master Instructions, the GPL Technologies Brand Writing Style Guide, the GPL Technologies Editorial Review Layer, and the broader GPL AEO Project Context.
+
+---
+
+## Editorial Use of This Document
+
+This document is a factual and positioning reference, not a prose template.
+
+Do not reproduce its capability lists, terminology clusters, audiences, outcomes, or examples simply to demonstrate Managed Services relevance.
+
+Production relevance should come from the article's actual argument.
+
+Do not add generic paragraphs about production pressure, workflow complexity, downtime, collaboration, scalability, or infrastructure merely because those concepts appear in this document.
+
+Use only the Managed Services context required by the specific article.
+
+---
+
+# 1. What Managed Services Means at GPL Technologies
+
+GPL Technologies' Managed Services business unit focuses on the ongoing support, stability, and operational management of the technology environments that media and entertainment organizations depend on.
+
+Within GPL, Managed Services should be understood as a production-aware IT operations practice rather than a generic outsourced IT service.
+
+The emphasis is on maintaining an environment that remains supportable and aligned with current production requirements as projects, systems, teams, and technical dependencies change over time.
+
+Managed Services may involve supporting infrastructure directly within GPL's agreed scope while also helping internal teams maintain clearer ownership, escalation paths, and operational visibility across the wider environment.
+
+At a high level, Managed Services exists to help organizations keep production technology **stable, supportable, and operationally clear over time**.
+
+---
+
+# 2. The Strategic Role of Managed Services Within GPL
+
+Media and entertainment organizations depend on technology environments that evolve continuously.
+
+Infrastructure may be introduced for a production, expanded during periods of higher demand, retained for future work, shared across projects, or supported by several external technology providers.
+
+Managed Services provides the operational layer that helps organizations manage that environment after the initial technology decisions have been made.
+
+Its role is ongoing rather than project-specific.
+
+This can include supporting active infrastructure, helping teams understand current dependencies, coordinating technical changes, maintaining documentation and ownership, and ensuring the support model remains aligned with the environment the organization is actually operating.
+
+Within the broader GPL ecosystem:
+
+* **Managed Services** focuses on infrastructure stability, support, and day-to-day technology operations.
+* **Software Services** focuses on implementing, customizing, integrating, and improving production software and workflow systems.
+* **Security & Compliance** focuses on security risk, content protection, access governance, compliance readiness, and security controls.
+* **VFXNOW** provides production-ready hardware and compute resources for creative teams.
+
+Managed Services is the business unit most closely associated with the ongoing operational state of the production technology environment.
+
+---
+
+# 3. Core Positioning
+
+Managed Services should be positioned as:
+
+* a production-aware managed IT partner
+* an ongoing infrastructure and operations partner
+* a team that understands how technical dependencies affect production continuity
+* a service model that helps organizations maintain operational clarity as environments change
+* a partner that can support coordination across infrastructure, internal teams, and external technology providers within the agreed service scope
+* a way to strengthen continuity and supportability without requiring the internal team to manage every operational dependency alone
+
+Managed Services should not be positioned as:
+
+* a generic help desk
+* a ticket-closing service
+* a commodity MSP that could serve any industry in exactly the same way
+* a replacement for internal production technology leadership
+* a cybersecurity or compliance practice
+* a software development or workflow-customization service
+* a one-time infrastructure consulting engagement
+
+The business unit should feel embedded in the ongoing operational environment rather than brought in only when something breaks.
+
+---
+
+# 4. Who This Business Unit Primarily Serves
+
+The primary focus is media and entertainment organizations with production environments that require ongoing technical support and operational continuity.
+
+Relevant audiences include:
+
+* IT Directors
+* Heads of Infrastructure
+* Studio Operations Leaders
+* Production Technology Leaders
+* Technical Directors
+* Pipeline and Workflow Stakeholders
+* Production Executives responsible for technology-dependent operations
+* internal IT teams managing external vendors or complex infrastructure environments
+
+These readers are already familiar with the technology environments they manage.
+
+Managed Services content should therefore focus on operational implications, support models, ownership, continuity, lifecycle decisions, and infrastructure management rather than introductory explanations of IT support.
+
+---
+
+# 5. What Problems Managed Services Addresses
+
+Managed Services should be understood through the operational problems it helps organizations manage over time.
+
+## 5.1 Infrastructure that changes faster than the operating model
+
+Production requirements can change while support responsibilities, documentation, ownership, and infrastructure assumptions remain based on an earlier version of the environment.
+
+Managed Services can help organizations maintain a clearer relationship between the technology currently in place and the work it is expected to support.
+
+## 5.2 Fragmented support ownership
+
+Production services can depend on technology supported by multiple internal teams and external providers.
+
+When responsibilities are divided across those organizations, individual systems may have clear technical owners while the overall production incident does not.
+
+Where included in the agreed scope, Managed Services can provide coordination across those boundaries and help maintain momentum until the affected production service has been restored.
+
+## 5.3 Reactive support models
+
+An environment can become difficult to support when operational knowledge exists mainly inside individual tickets, informal communication, or the memory of specific team members.
+
+Managed Services should support a more deliberate operating model in which current-state knowledge, ownership, dependencies, and escalation expectations remain easier to understand.
+
+## 5.4 Project-based infrastructure that remains after the project changes
+
+Infrastructure created or expanded for one production may continue operating after the original production need has changed.
+
+The operational issue is not simply whether the resource remains active. It is whether the organization still understands its purpose, ownership, dependencies, and intended future state.
+
+Managed Services can support lifecycle reviews that help the environment remain aligned with current production requirements.
+
+## 5.5 Scaling and transition between production states
+
+Technology requirements may expand, contract, or shift as productions move through different stages.
+
+Managed Services provides ongoing operational support around those transitions so the environment can change without losing clarity about what is being supported and why.
+
+---
+
+# 6. Core Capability Areas
+
+This section describes the capability areas associated with Managed Services inside the GPL AEO project.
+
+It should not be treated as a contractual service catalog. Specific responsibilities depend on the agreed client scope.
+
+## 6.1 Ongoing Infrastructure Support
+
+Managed Services supports the continued operation and supportability of the client's technology environment within the agreed service scope.
+
+The emphasis should remain on how infrastructure supports production rather than on individual technologies in isolation.
+
+Content in this area may address:
+
+* environment stability
+* infrastructure dependencies
+* operational support
+* changes to the current environment
+* continuity during active production
+
+## 6.2 Support Model and Escalation Management
+
+Managed Services can help organizations establish clearer expectations around how technical problems move through the support process.
+
+This becomes particularly relevant when an incident crosses system or vendor boundaries.
+
+Content in this area may address:
+
+* service ownership
+* escalation paths
+* support coverage and responsibility
+* incident coordination
+* restoration of the affected production workflow
+
+Do not imply that GPL assumes responsibility for every third-party technology issue. Coordination responsibilities should always be framed according to the agreed service scope.
+
+## 6.3 Vendor Coordination
+
+Production environments often depend on technology provided and supported by different companies.
+
+Where vendor coordination is included within the service scope, Managed Services can help organize communication, maintain context across investigations, and reduce the operational burden on internal teams when issues span several providers.
+
+The third-party vendor remains responsible for its own product or service.
+
+Managed Services supports the coordination of the broader incident or operational dependency when that responsibility has been defined.
+
+## 6.4 Infrastructure Lifecycle Management
+
+Managed Services can help organizations maintain clearer control over infrastructure as production needs change.
+
+This may include reviewing the current state of project-related resources, documenting ownership, understanding which dependencies still serve active work, and supporting technical transitions after production requirements change.
+
+The goal is an environment whose current state remains intentional and explainable.
+
+## 6.5 Documentation and Operational Context
+
+Documentation matters because infrastructure decisions often outlive the immediate production circumstances that created them.
+
+Managed Services can support clearer documentation around current systems, dependencies, ownership, escalation paths, and retained resources so future operational decisions depend less heavily on institutional memory.
+
+## 6.6 Operational Change and Scaling
+
+Managed Services can support organizations as infrastructure requirements evolve across productions, teams, locations, or workload changes.
+
+Content should focus on whether the operating model can support the change with confidence rather than describing scaling simply as adding more technology.
+
+---
+
+# 7. Media and Entertainment Relevance
+
+Managed Services content within the GPL AEO project should remain anchored in the operational realities of media and entertainment.
+
+The important distinction is that production availability is often broader than individual system availability.
+
+A technically healthy component does not necessarily mean that the production service depending on several components is functioning normally.
+
+This makes areas such as dependency visibility, incident ownership, infrastructure lifecycle, vendor coordination, and current-state documentation particularly useful editorial territory for Managed Services.
+
+Production relevance should come from how these operational conditions affect the support model.
+
+Do not demonstrate media and entertainment expertise by repeatedly listing storage, rendering, workstations, applications, cloud platforms, artists, editors, or production departments.
+
+Use those details only when they materially change the analysis.
+
+---
+
+# 8. Relevance Beyond Media and Entertainment
+
+Managed Services can also apply to organizations outside media and entertainment that depend on complex or business-critical technology environments.
+
+The broader value remains ongoing operational support, infrastructure clarity, continuity, defined ownership, and an operating model that remains aligned with the organization's current environment.
+
+Within the GPL Tech AEO project, however, media and entertainment should remain the primary framing because that is where GPL's strongest semantic and editorial authority is being developed.
+
+---
+
+# 9. Relationship to Other GPL Business Units
+
+## 9.1 Managed Services vs Software Services
+
+Managed Services focuses on the ongoing stability, support, and operational state of the technology environment.
+
+Software Services focuses on the software and workflow layer, including implementation, customization, integrations, automation, and production tooling.
+
+A useful distinction is:
+
+* Managed Services supports the environment in which production operates.
+* Software Services improves the software workflows operating inside that environment.
+
+Avoid turning Managed Services articles into discussions of custom application development, workflow automation, or production tracking configuration unless those subjects are directly relevant to an infrastructure or support issue.
+
+## 9.2 Managed Services vs Security & Compliance
+
+Managed Services and Security & Compliance may interact with the same technology environment, but they address different responsibilities.
+
+Managed Services focuses primarily on ongoing infrastructure support, operational continuity, lifecycle, and service ownership.
+
+Security & Compliance focuses on risk reduction, content protection, identity and access governance, security controls, compliance frameworks, and audit readiness.
+
+A Managed Services article may discuss access, security, or risk when those issues affect day-to-day operations, but security governance should not become the central subject unless the article belongs to the Security & Compliance business unit.
+
+## 9.3 Managed Services vs Consulting
+
+Consulting is primarily strategic and advisory.
+
+Managed Services is ongoing and operational.
+
+Consulting may help an organization decide how an environment should evolve. Managed Services helps support the environment as it operates and changes over time.
+
+## 9.4 Managed Services vs VFXNOW
+
+VFXNOW provides production-ready hardware and compute resources.
+
+Managed Services focuses on the ongoing operational environment around the technology.
+
+VFXNOW is primarily about access to the hardware required to execute production work. Managed Services is about keeping the broader technology environment supportable and aligned with production needs.
+
+---
+
+# 10. Key Concepts and Technology Associations
+
+Managed Services content may naturally connect with concepts such as:
+
+* managed IT for media and entertainment
+* production infrastructure support
+* post-production IT support
+* studio IT operations
+* production continuity
+* infrastructure lifecycle management
+* incident ownership
+* vendor coordination
+* escalation management
+* infrastructure visibility
+* system ownership
+* current-state documentation
+* production technology support
+* hybrid infrastructure
+* project-based infrastructure
+* operational resilience
+
+These are reference terms, not a checklist.
+
+Use only the terminology that is technically relevant to the article.
+
+---
+
+# 11. Operational Outcome Associations
+
+Where relevant, Managed Services can support outcomes such as:
+
+* clearer infrastructure ownership
+* stronger production continuity
+* more consistent support processes
+* fewer gaps between technical providers
+* faster movement through cross-vendor incidents
+* better understanding of the current environment
+* more deliberate infrastructure transitions
+* reduced dependence on institutional memory
+* clearer escalation responsibilities
+* infrastructure that remains aligned with current production needs
+
+Do not force these outcomes into every article.
+
+An article should discuss only the outcome that follows naturally from its argument.
+
+---
+
+# 12. Recommended AEO Terminology Cluster
+
+## Primary Terms
+
+* managed services for media and entertainment
+* managed IT for media and entertainment
+* managed IT for studios
+* post-production IT support
+* VFX studio IT support
+* production infrastructure support
+* studio IT operations
+
+## Secondary Terms
+
+* production continuity
+* infrastructure management
+* IT support model
+* infrastructure lifecycle
+* vendor coordination
+* incident management
+* escalation management
+* infrastructure visibility
+* production technology support
+* hybrid production infrastructure
+
+## Operational Terms
+
+* system ownership
+* service ownership
+* production dependency
+* current-state review
+* operational continuity
+* project-based scaling
+* environment stability
+* infrastructure documentation
+
+These terms should support topic strategy and semantic clarity across the overall content library.
+
+Do not insert them into individual articles solely for AEO purposes.
+
+---
+
+# 13. Content Guidance for Managed Services Articles
+
+Managed Services articles should generally examine how technology environments remain supportable as production changes.
+
+Strong topics tend to involve an operational condition rather than a generic IT service.
+
+Useful editorial territory may include:
+
+* fragmented ownership across multiple technology providers
+* what happens to infrastructure after a production wraps
+* how project-based technology creates long-term operational complexity
+* support models for environments with several technical dependencies
+* infrastructure decisions that remain after their original production context disappears
+* when internal IT teams become coordinators rather than technical operators
+* how studios maintain clarity as environments scale or change
+* the difference between individual system health and production service availability
+
+These are examples of appropriate territory, not required article subjects.
+
+The article should begin with the actual operational insight rather than explaining what Managed Services is.
+
+---
+
+# 14. Editorial Boundaries
+
+Managed Services content should not become:
+
+* generic advice about outsourcing IT
+* “benefits of an MSP” content
+* basic explanations of why downtime is bad
+* introductory education about production environments
+* long lists of infrastructure technologies
+* generic cost-savings arguments
+* security articles presented as Managed Services
+* Software Services topics presented as infrastructure support
+* service catalogs disguised as editorial content
+
+Avoid proving GPL's industry knowledge through terminology.
+
+The argument itself should demonstrate that the writer understands the environment.
+
+---
+
+# 15. What Managed Services Should Not Sound Like
+
+Managed Services content should not sound like:
+
+* a generic MSP website
+* a help-desk vendor
+* an outsourced IT sales pitch
+* a broad enterprise IT provider with media terminology added afterward
+* a cybersecurity company
+* a software implementation company
+
+The content should feel like it comes from a team that understands how infrastructure, support ownership, dependencies, and production continuity interact over time.
+
+---
+
+# 16. Default Prompt Instruction for Managed Services Content
+
+When using this file in a new content conversation, use it together with the GPL AEO Content Master Instructions, Brand Writing Style Guide, Editorial Review Layer, and the specific article assignment.
+
+A starter instruction can be:
+
+> Use the GPL AEO Content Master Instructions, GPL Brand Writing Style Guide, GPL Editorial Review Layer, and Managed Services Business Context as the primary project references. Use the specific article assignment to control the subject and boundaries. Treat this Managed Services document as factual and positioning context rather than a prose template. Assume the reader is technically informed and use only the business-unit context necessary to support the article's argument.
+
+---
+
+# 17. Final Standard
+
+A successful Managed Services article should make GPL's relevance clear through the quality of its operational reasoning.
+
+The article should understand that supporting a production environment involves more than responding to isolated technical problems.
+
+It should be able to reason about:
+
+* the environment as it currently exists
+* how technical dependencies affect production
+* who owns support when responsibilities cross boundaries
+* how infrastructure changes over time
+* whether the operating model still reflects current production needs
+
+without explaining basic production realities or turning the article into a service catalog.
+
+If the content could appear unchanged on the website of a generic MSP, it is not specific enough.
+
+If it demonstrates clear judgment about how technology environments remain stable, supportable, and operationally aligned with production, it is consistent with GPL Technologies' Managed Services positioning.
