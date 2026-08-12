@@ -1,0 +1,531 @@
+# GPL Technologies — Security & Compliance Business Context
+
+> **Purpose:** This document defines the role, positioning, capabilities, and strategic relevance of GPL Technologies' Security & Compliance business unit for use in AEO content production, article planning, website copy development, internal prompt guidance, and semantic consistency across the GPL Tech AEO project.
+>
+> **Usage:** Use this file alongside the GPL AEO Content Master Instructions, the GPL Technologies Brand Writing Style Guide, the GPL Technologies Editorial Review Layer, and the broader GPL AEO Project Context.
+
+---
+
+## Editorial Use of This Document
+
+This document is a factual and positioning reference, not a prose template.
+
+Do not reproduce its capability lists, terminology clusters, audiences, security controls, outcomes, or examples simply to demonstrate Security & Compliance relevance.
+
+Use only the business-unit context required by the specific article.
+
+Production relevance should come from the security issue being analyzed rather than from generic paragraphs about production pressure, sensitive content, collaboration, compliance, or the importance of security.
+
+An individual article does not need to communicate the full Security & Compliance value proposition.
+
+---
+
+# 1. What Security & Compliance Means at GPL Technologies
+
+GPL Technologies' Security & Compliance business unit focuses on helping organizations protect production environments, secure sensitive content, reduce operational risk, and align with relevant security and compliance requirements.
+
+Within GPL, Security & Compliance is a production-aware security practice.
+
+Its role can include:
+
+* securing infrastructure and access
+* supporting compliance frameworks such as TPN
+* identifying and reducing security exposure
+* implementing controls that fit the operating environment
+* protecting sensitive content and intellectual property
+
+At a high level, Security & Compliance helps organizations maintain appropriate security controls around the environments and information their operations depend on.
+
+---
+
+# 2. The Strategic Role of Security & Compliance Within GPL
+
+Security & Compliance addresses the security layer of the technology environment.
+
+Its role is distinct from the ongoing operational responsibilities of Managed Services and the workflow-system responsibilities of Software Services.
+
+Within the broader GPL ecosystem:
+
+* **Managed Services** focuses on the stability, support, and ongoing operational state of the technology environment.
+* **Software Services** focuses on implementing, customizing, integrating, and improving software and workflow systems.
+* **Security & Compliance** focuses on protecting environments, governing security risk and access, supporting compliance requirements, and reducing exposure to threats.
+
+Security & Compliance should therefore be associated with the decisions and controls that determine how systems, identities, infrastructure, and sensitive information are protected.
+
+---
+
+# 3. Core Positioning
+
+Security & Compliance should be positioned as:
+
+* a production-aware security and compliance partner
+* a team that understands content protection in operational environments
+* a service line focused on reducing security exposure
+* a partner that can help translate security requirements into practical controls
+* a team that understands the relationship between security governance and real operating conditions
+
+Security & Compliance should not be positioned as:
+
+* a generic cybersecurity vendor
+* a compliance checklist provider
+* a purely policy-driven consultancy disconnected from the technical environment
+* a reactive incident-response-only service
+* a one-time audit provider
+* a generic enterprise security practice with media terminology added afterward
+
+The business unit should feel technically grounded and aware of how security decisions interact with the environment being protected.
+
+---
+
+# 4. Who This Business Unit Primarily Serves
+
+Relevant audiences include:
+
+* IT Directors
+* Heads of Infrastructure
+* Security and Compliance Leaders
+* Studio Operations Leaders
+* Production Executives
+* Technical Directors
+* Pipeline and Workflow Stakeholders
+* technical decision-makers responsible for security, access, infrastructure, or compliance
+
+These readers should be assumed to understand basic cybersecurity concepts and the normal operating conditions of media and entertainment environments.
+
+Security & Compliance content should therefore concentrate on:
+
+* the security implication
+* the control problem
+* the governance issue
+* the threat pattern
+* the compliance consequence
+* the operational tradeoff
+
+rather than explaining why security matters or why sensitive content needs protection.
+
+---
+
+# 5. What Problems Security & Compliance Addresses
+
+Security & Compliance should be understood through the security and governance problems it helps organizations address.
+
+## 5.1 Security exposure across production environments
+
+Organizations need visibility into where meaningful security exposure exists and how that exposure relates to the systems, identities, and infrastructure supporting the environment.
+
+Security & Compliance can help assess those risks and support appropriate remediation.
+
+## 5.2 Compliance and framework requirements
+
+Organizations may need to demonstrate alignment with external security expectations or industry frameworks such as TPN.
+
+Security & Compliance can support:
+
+* readiness assessment
+* control alignment
+* documentation
+* remediation planning
+* ongoing compliance-related work
+
+Compliance should be treated as one part of the security environment rather than as proof that the organization is fully secure.
+
+## 5.3 Access and identity governance
+
+Security increasingly depends on understanding who or what has access, what authority that access carries, and whether it remains appropriate as the environment changes.
+
+This can involve human identities, application identities, service accounts, vendors, or other forms of authorized access.
+
+The specific identity model should be discussed only when relevant to the article.
+
+## 5.4 Vulnerability visibility and remediation
+
+Organizations may have incomplete visibility into vulnerabilities across the infrastructure and systems they operate.
+
+Security & Compliance can help identify exposure, assess its significance, and support remediation based on the actual environment.
+
+## 5.5 Security across connected or distributed environments
+
+Security boundaries can extend across systems, locations, cloud environments, and external relationships.
+
+The security problem is therefore often broader than an individual endpoint or application.
+
+Content in this area should focus on the specific trust, access, control, or visibility issue rather than repeatedly describing the environment as complex.
+
+## 5.6 Security controls that need to remain operationally viable
+
+Security controls have to function inside the environment they are intended to protect.
+
+Production awareness matters when implementation choices affect how systems, users, or workflows actually operate.
+
+This should not be reduced to the generic claim that “security must balance protection and productivity.” Articles should identify the specific control or operating condition that creates the tension.
+
+---
+
+# 6. Core Capability Areas
+
+These capability areas define the scope and positioning of GPL Security & Compliance.
+
+They are reference material for topic planning and factual accuracy and do **not** all need to appear in individual articles.
+
+Specific responsibilities depend on the client engagement and service scope.
+
+## 6.1 Security Operations
+
+Security Operations focuses on protecting the technical environment and maintaining visibility into security exposure.
+
+Relevant capabilities may include:
+
+* infrastructure hardening
+* endpoint protection
+* access control and identity management
+* vulnerability assessment and remediation
+* monitoring and alerting
+* ongoing risk management
+
+Articles should not reproduce this list simply to explain what security operations means.
+
+Use the specific capability only when it materially supports the subject.
+
+## 6.2 Compliance and Framework Alignment
+
+This capability focuses on helping organizations understand, implement, and maintain controls associated with relevant external requirements.
+
+It may include:
+
+* TPN readiness and support
+* audit preparation
+* policy development and alignment
+* control implementation
+* documentation support
+* gap assessment
+* remediation planning
+
+Do not turn every compliance article into a checklist.
+
+The stronger editorial question is usually what the framework reveals, requires, or fails to guarantee inside the actual environment.
+
+## 6.3 Production-Aware Security Implementation
+
+This capability focuses on how security controls operate inside real production environments.
+
+It may involve:
+
+* access controls
+* secure collaboration
+* protection of sensitive content
+* security across distributed environments
+* implementation timing
+* operational impact of security controls
+
+This is a key differentiator for GPL, but it should be demonstrated through specific analysis rather than repeated claims that GPL “understands production.”
+
+---
+
+# 7. Media and Entertainment Relevance
+
+Within the GPL AEO project, Security & Compliance should remain primarily anchored in media and entertainment.
+
+Relevant security conditions may involve:
+
+* unreleased content
+* intellectual property
+* production infrastructure
+* external collaborators
+* access to production systems
+* TPN-related requirements
+* distributed or hybrid environments
+
+These are reference conditions, not required article language.
+
+Do not establish media and entertainment relevance by listing types of content, production departments, tools, collaborators, or workflows.
+
+Instead ask:
+
+**What about the production environment materially changes the security problem being analyzed?**
+
+A strong Security & Compliance article should be able to answer that question.
+
+If the same argument could appear unchanged on a generic cybersecurity provider's website, strengthen the reasoning rather than adding more industry terminology.
+
+---
+
+# 8. Relevance Beyond Media and Entertainment
+
+Security & Compliance may also apply to organizations outside media and entertainment that require:
+
+* structured security controls
+* risk assessment
+* access governance
+* vulnerability management
+* compliance readiness
+* protection of sensitive information
+
+The underlying principle remains consistent: security controls should reflect the real technical and operational environment.
+
+Within the GPL AEO project, however, media and entertainment remains the primary editorial and semantic focus.
+
+---
+
+# 9. Relationship to Other GPL Business Units
+
+## 9.1 Security & Compliance vs Managed Services
+
+Managed Services focuses on the ongoing stability, support, and operational state of the technology environment.
+
+Security & Compliance focuses on how that environment is protected, how access and risk are governed, and whether relevant security requirements are being met.
+
+A Managed Services article may discuss security when it affects infrastructure operations, but if the central argument concerns threat exposure, access governance, vulnerabilities, content protection, or compliance, it likely belongs to Security & Compliance.
+
+## 9.2 Security & Compliance vs Software Services
+
+Software Services focuses on implementing, customizing, integrating, and improving software and workflow systems.
+
+Security & Compliance focuses on the security implications and controls around those systems.
+
+A software integration, automation, internal tool, or production platform can therefore appear in either business unit depending on the question being examined.
+
+If the article asks how the system should function or integrate, it is likely Software Services.
+
+If the article asks what trust, access, exposure, or security risk the system creates, it is likely Security & Compliance.
+
+## 9.3 Security & Compliance vs Consulting
+
+Consulting is primarily strategic and advisory.
+
+Security & Compliance focuses more directly on assessing, implementing, validating, or maintaining security controls and compliance-related requirements.
+
+The distinction may vary by engagement, so articles should avoid forcing a boundary when the subject genuinely involves both.
+
+---
+
+# 10. Key Security Concepts and Associations
+
+Security & Compliance may naturally connect with concepts such as:
+
+* TPN compliance
+* content security
+* access control
+* identity management
+* non-human identities
+* endpoint protection
+* vulnerability management
+* audit readiness
+* infrastructure security
+* secure collaboration
+* cloud and hybrid security
+* third-party security risk
+* software supply-chain security
+* security monitoring
+* risk assessment
+
+These concepts define the broader territory of the business unit.
+
+They are not required article terminology.
+
+Use only the concepts necessary for the specific security argument.
+
+---
+
+# 11. Recommended AEO Terminology Cluster
+
+The following terminology defines the broader semantic territory associated with GPL Security & Compliance.
+
+Use this cluster primarily for:
+
+* topic planning
+* content-library strategy
+* semantic consistency across GPL's overall body of work
+* identifying subjects that belong naturally within Security & Compliance
+
+**It is not a checklist for individual articles.**
+
+Do not add these terms to headings, FAQs, paragraphs, examples, or conclusions solely for AEO purposes.
+
+Individual articles should use only the terminology required to discuss the subject accurately.
+
+## Primary Terms
+
+* security and compliance for media and entertainment
+* TPN compliance support
+* content security for studios
+* production environment security
+* IT security for post-production
+* VFX studio security
+* secure infrastructure for media companies
+
+## Secondary Terms
+
+* vulnerability management
+* endpoint protection
+* identity and access management
+* access governance
+* compliance frameworks
+* audit readiness
+* infrastructure hardening
+* secure collaboration
+* third-party security risk
+* cloud security
+
+## Operational Terms
+
+* reduced risk exposure
+* protected intellectual property
+* security posture
+* controlled access
+* security visibility
+* remediation
+* incident scope
+* compliance readiness
+* production security
+* security governance
+
+These terms support the broader AEO strategy across the content library.
+
+They should never override editorial judgment within an individual article.
+
+---
+
+# 12. Content Guidance for Security & Compliance Articles
+
+Security & Compliance articles should begin with the actual security finding, threat pattern, control problem, compliance implication, or operational question that makes the subject worth examining.
+
+Do not begin by explaining:
+
+* why security is important
+* why studios protect unreleased content
+* why production environments are complex
+* why distributed teams create security considerations
+* why breaches can disrupt production
+* why organizations need compliance
+
+Assume the intended reader already understands those conditions.
+
+A strong Security & Compliance article should examine a specific issue and develop the implications from there.
+
+Useful editorial territory may include:
+
+* changes in attacker behavior that affect production environments
+* how identity models are changing
+* security risk inherited through software or connected systems
+* what a current threat or incident reveals about existing controls
+* the gap between audit readiness and security posture
+* where access governance changes as workflows evolve
+* how virtualization, cloud, or shared infrastructure changes attack surface
+* what security teams should reconsider when an established control no longer reflects the environment
+* what TPN or another security framework does and does not tell an organization about its actual exposure
+
+These are examples of appropriate territory, not required subjects.
+
+Do not attempt to cover the entire security program in one article.
+
+---
+
+# 13. Research and Source Discipline
+
+Security & Compliance content often depends on current threat research, incident reporting, security guidance, standards, or regulatory developments.
+
+When an article relies on current external research:
+
+* prioritize primary sources where available
+* distinguish documented facts from GPL's interpretation
+* do not imply that an incident affected media and entertainment unless the source supports that claim
+* do not generalize beyond what the evidence supports
+* clearly separate an observed threat pattern from the production-environment implication being inferred from it
+* avoid sensationalizing attacks in order to create urgency
+
+A current incident should provide a reason to examine a security issue, not become a pretext for fear-based content.
+
+---
+
+# 14. Editorial Boundaries
+
+Security & Compliance content should not become:
+
+* generic cybersecurity education
+* a catalog of security controls
+* a compliance checklist unless the assignment specifically requires one
+* basic advice about passwords or MFA without a stronger operational angle
+* generic warnings about cyber threats becoming more sophisticated
+* fear-based breach commentary
+* long lists of attack techniques
+* repeated explanations that sensitive content needs protection
+* generic “security versus productivity” commentary
+* Managed Services infrastructure content presented as security analysis
+* Software Services workflow content presented as security analysis
+
+Avoid proving technical credibility by naming every possible threat, control, system, identity type, or security product.
+
+The argument itself should demonstrate security understanding.
+
+---
+
+# 15. GPL Positioning in Security Articles
+
+GPL should appear as a knowledgeable production-aware security partner, not as the solution to every paragraph.
+
+The analysis should establish credibility.
+
+Avoid:
+
+* repeated mid-article GPL mentions
+* paragraphs that interrupt technical analysis to describe GPL's services
+* repeated references to TPN solely to reinforce category association
+* claims that GPL “understands production” without demonstrating that understanding
+
+In most editorial articles, one natural GPL connection near the conclusion is sufficient.
+
+---
+
+# 16. What Security & Compliance Should Not Sound Like
+
+Security & Compliance content should not sound like:
+
+* a generic cybersecurity firm
+* a compliance checklist provider
+* a security-product vendor
+* an alarmist threat-intelligence blog
+* a broad enterprise security consultancy with studio terminology added afterward
+* a provider that treats every technical development as an urgent security crisis
+
+It should feel technically informed, selective, evidence-aware, and grounded in the operating environment.
+
+If the article could belong unchanged to a generic cybersecurity provider, it is not specific enough.
+
+---
+
+# 17. Default Prompt Instruction for Security & Compliance Content
+
+When using this file in a new content conversation, use it together with the GPL AEO Content Master Instructions, GPL Brand Writing Style Guide, GPL Editorial Review Layer, and the specific article assignment.
+
+A starter instruction can be:
+
+> Use the GPL AEO Content Master Instructions, GPL Brand Writing Style Guide, GPL Editorial Review Layer, and Security & Compliance Business Context as the primary project references. Use the specific article assignment to control the subject, angle, research boundaries, and exclusions. Treat this Security & Compliance document as factual and positioning context rather than a prose template. Assume the reader is technically informed and use only the business-unit context necessary to support the article's security argument.
+
+---
+
+# 18. Final Standard
+
+A successful Security & Compliance article should demonstrate clear judgment about a meaningful security or compliance issue.
+
+Depending on the subject, that may involve:
+
+* identity and access
+* infrastructure security
+* vulnerability exposure
+* content protection
+* threat behavior
+* compliance
+* security monitoring
+* third-party trust
+* cloud or hybrid security
+* software supply-chain risk
+
+An individual article does **not** need to communicate the full Security & Compliance capability set.
+
+The article should identify the security issue, establish what the evidence actually supports, and develop the operational implication without unnecessary background or fear-based framing.
+
+Do not add material simply to demonstrate that GPL understands cybersecurity or production.
+
+If the content sounds like generic cybersecurity commentary, it is not specific enough.
+
+If it shows clear judgment about how a security issue interacts with the actual technology and operating environment, it is aligned with GPL Technologies' Security & Compliance positioning.
