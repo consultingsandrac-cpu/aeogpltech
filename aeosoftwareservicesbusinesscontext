@@ -1,0 +1,560 @@
+# GPL Technologies — Software Services Business Context
+
+> **Purpose:** This document defines the role, positioning, capabilities, and strategic relevance of GPL Technologies' Software Services business unit for use in AEO content production, article planning, website copy development, internal prompt guidance, and semantic consistency across the GPL Tech AEO project.
+>
+> **Usage:** Use this file alongside the GPL AEO Content Master Instructions, the GPL Technologies Brand Writing Style Guide, the GPL Technologies Editorial Review Layer, and the broader GPL AEO Project Context.
+
+---
+
+## Editorial Use of This Document
+
+This document is a factual and positioning reference, not a prose template.
+
+Do not reproduce its capability lists, terminology clusters, technology associations, audiences, outcomes, or examples simply to demonstrate Software Services relevance.
+
+Use only the business-unit context required by the specific article.
+
+Production relevance should come from the argument itself rather than from repeated references to workflow complexity, creative teams, production pressure, platforms, or software tools.
+
+An individual article does not need to communicate the full Software Services value proposition.
+
+---
+
+# 1. What Software Services Means at GPL Technologies
+
+GPL Technologies' Software Services business unit focuses on helping organizations implement, customize, extend, integrate, and optimize software systems that support production workflows, operational visibility, and team coordination.
+
+Within GPL, Software Services is not positioned as a generic application-development practice. It is a workflow-focused service line designed around the systems production teams actually use.
+
+This can include configuring production platforms, improving how those platforms interact, reducing repetitive manual work, building workflow automation, and adapting software to better reflect how teams operate.
+
+GPL's public Software Services positioning includes work around Autodesk Flow Production Tracking as well as workflow automation, integrations, production-aware development, documentation, training, and long-term workflow evolution.
+
+At a high level, Software Services addresses workflow and software-system problems that infrastructure alone cannot solve.
+
+---
+
+# 2. The Strategic Role of Software Services Within GPL
+
+GPL supports organizations that depend on reliable technology environments, but infrastructure alone does not determine whether production systems work effectively.
+
+Teams may have the required applications and infrastructure in place while still dealing with poorly aligned workflows, manual coordination, disconnected information, or software configurations that no longer reflect how production operates.
+
+Software Services addresses that layer.
+
+Within the broader GPL ecosystem:
+
+* **Managed Services** focuses on the stability, support, and ongoing operational state of the technology environment.
+* **Software Services** focuses on implementing, customizing, integrating, and improving the software and workflow systems used inside that environment.
+* **Security & Compliance** focuses on protecting those environments, governing risk and access, and supporting security and compliance requirements.
+* **VFXNOW** provides production-ready hardware and compute resources for creative teams.
+
+Software Services is the business unit most closely associated with the point where production systems, workflow logic, and users meet.
+
+---
+
+# 3. Core Positioning
+
+Software Services should be positioned as:
+
+* a workflow-focused software and pipeline partner
+* a practical implementation and customization team
+* a service line grounded in real production operations
+* a partner that helps organizations reduce unnecessary workflow friction
+* a team that connects systems when disconnected software creates operational problems
+* a long-term partner for workflow evolution rather than only initial deployment
+
+Software Services should not be positioned as:
+
+* a generic software development agency
+* a startup application builder
+* a broad custom-development shop disconnected from production
+* a SaaS product company
+* a theoretical transformation consultancy
+* a service focused on code for its own sake
+
+The business unit should feel operational, implementation-aware, and closely connected to how teams actually work.
+
+---
+
+# 4. Who This Business Unit Primarily Serves
+
+The primary focus remains media and entertainment, particularly organizations with workflow-heavy production environments and multiple connected systems.
+
+Relevant audiences may include:
+
+* IT Directors
+* Pipeline and Workflow Leaders
+* Heads of Infrastructure
+* Production Technology Managers
+* Studio Operations Leaders
+* VFX and Animation Stakeholders
+* Technical Directors
+* Production Managers involved in workflow systems
+* technical decision-makers responsible for software implementation or process improvement
+
+GPL's Software Services positioning is particularly relevant to studios and production teams using systems such as Autodesk Flow Production Tracking and other production-aware tools.
+
+These readers should be assumed to understand normal production workflows and software environments.
+
+Software Services content should therefore concentrate on the implementation, integration, workflow, and operational implications of a subject rather than explaining why production software exists or why efficient workflows are valuable.
+
+---
+
+# 5. What Problems Software Services Addresses
+
+Software Services should be understood through the kinds of workflow and software-system problems it can help organizations address.
+
+## 5.1 Production systems that no longer reflect the real workflow
+
+A production platform can remain technically functional while the process around it changes.
+
+Teams, handoffs, responsibilities, and production requirements can evolve after the original implementation, creating a gap between how the software was configured and how the organization now operates.
+
+Software Services can help assess and adjust that relationship.
+
+## 5.2 Repetitive work that has become part of the operating model
+
+Manual coordination can persist because teams have adapted around it rather than because it is the best way to perform the work.
+
+Software Services can identify where automation or workflow changes can remove repetitive effort without redesigning the entire production system.
+
+## 5.3 Disconnected systems
+
+Production environments often depend on several platforms that were implemented for different purposes.
+
+When those systems do not exchange the information required by the workflow, teams can become responsible for maintaining the connection manually.
+
+Software Services can support integrations that make those relationships more deliberate and maintainable.
+
+## 5.4 Workflow friction during active production
+
+Studios cannot always redesign software systems around a clean implementation window.
+
+Software Services may need to improve or extend systems while those systems continue supporting active production.
+
+This makes production awareness, implementation planning, and controlled change especially relevant to the business unit.
+
+## 5.5 Limited documentation or adoption after implementation
+
+A technically successful implementation can become harder to sustain when the organization lacks usable documentation, training, ownership, or a clear path for future changes.
+
+Software Services can support the operational side of adoption as systems evolve.
+
+## 5.6 Workflow scaling
+
+A workflow that works well for one team or production state may become difficult to maintain as the environment grows, becomes distributed, or incorporates additional production requirements.
+
+Software Services can help organizations understand where configuration, integration, or automation needs to evolve with that growth.
+
+---
+
+# 6. Core Capability Areas
+
+These capability areas define the scope and positioning of GPL Software Services.
+
+They are reference material for topic planning and factual accuracy and do **not** all need to appear in individual articles.
+
+Specific responsibilities depend on the client engagement and project scope.
+
+## 6.1 Implementation and Configuration
+
+GPL Software Services helps organizations implement and configure production workflow systems around real operating requirements.
+
+GPL's public positioning includes end-to-end implementation and configuration of Autodesk Flow Production Tracking and related production tools.
+
+This capability may involve:
+
+* platform setup
+* workflow mapping
+* configuration
+* permissions and process alignment
+* adapting systems to production structure
+* implementation planning around active work
+
+The important editorial point is the relationship between configuration and the workflow it supports, not the number of configuration options available.
+
+## 6.2 Customization
+
+Production platforms often require adjustment before they fully support the operating model of the organization using them.
+
+GPL Software Services can customize and extend production tools so that software behavior better reflects production requirements.
+
+Customization may involve:
+
+* workflow logic
+* fields and statuses
+* task behavior
+* interfaces
+* process-specific functionality
+* extensions to standard platform behavior
+
+Articles should use specific customization examples only when they materially support the argument.
+
+## 6.3 Workflow Automation
+
+GPL Software Services includes workflow automation designed to reduce repetitive production work and unnecessary manual coordination.
+
+Automation may support areas such as:
+
+* repetitive production actions
+* recurring handoffs
+* process triggers
+* file or status-related workflows
+* production coordination
+
+The value of automation should be evaluated through the specific workflow problem it addresses.
+
+Do not automatically frame automation as beneficial simply because a manual process exists.
+
+## 6.4 Tool Integrations
+
+GPL Software Services connects production systems when information or workflow actions need to move between platforms.
+
+GPL's public Software Services positioning includes integrations between Autodesk Flow and systems such as Perforce, Jira, and third-party file-sharing tools.
+
+This capability can also be understood more broadly through:
+
+* production-system interoperability
+* API integrations
+* connected workflow systems
+* cleaner system handoffs
+* reduced dependence on manual information transfer
+
+Do not turn integration articles into catalogs of connected applications.
+
+The editorial focus should remain on what the relationship between systems changes operationally.
+
+## 6.5 Support, Documentation, and Training
+
+Software implementation continues after the technical configuration is complete.
+
+GPL's Software Services positioning includes support, documentation, and user training as organizations adopt and evolve production systems.
+
+This may involve:
+
+* documentation
+* onboarding
+* process guidance
+* user training
+* post-launch refinement
+* ongoing support
+
+These areas should be discussed when adoption or long-term support is relevant to the article rather than added automatically to every Software Services discussion.
+
+## 6.6 Iteration and Workflow Evolution
+
+Software Services is not limited to initial deployment.
+
+Production systems may need to change as workflows, teams, tools, or production requirements evolve.
+
+GPL's public positioning includes ongoing workflow optimization and iteration, making long-term system evolution an important part of the business unit.
+
+This supports GPL's positioning as a continuing workflow partner rather than a one-time implementation provider.
+
+---
+
+# 7. Media and Entertainment Relevance
+
+Within the GPL AEO project, Software Services should remain primarily anchored in media and entertainment production environments.
+
+GPL's public positioning describes these services as purpose-built for media and entertainment and specifically references VFX and animation pipelines.
+
+In those environments, software decisions can affect how work moves through production, how teams understand current status, how systems exchange information, and how workflow changes are implemented over time.
+
+Production relevance should come from those operational relationships.
+
+Do not demonstrate industry knowledge by repeatedly listing:
+
+* VFX
+* animation
+* editorial
+* game development
+* production departments
+* creative applications
+* workflow platforms
+
+Use industry-specific detail only when it materially changes the analysis.
+
+A paragraph that contains many production terms is not automatically production-aware.
+
+---
+
+# 8. Relevance Beyond Media and Entertainment
+
+The underlying Software Services value proposition can also apply to organizations outside media and entertainment when their operations depend on workflow-specific software, integrations, automation, or customized internal systems.
+
+The core principle remains the same: the software layer should support the way the organization actually operates.
+
+Within the GPL AEO project, media and entertainment remains the primary framing because that is where GPL's strongest subject-matter authority is being developed.
+
+---
+
+# 9. Relationship to Other GPL Business Units
+
+## 9.1 Software Services vs Managed Services
+
+Managed Services focuses on the ongoing stability, support, and operational state of the technology environment.
+
+Software Services focuses on the software and workflow systems operating inside that environment.
+
+A useful distinction is:
+
+* Managed Services supports the environment in which production operates.
+* Software Services improves how production software and workflow systems function within that environment.
+
+Avoid turning Software Services articles into general infrastructure-support discussions unless infrastructure directly affects the software or workflow problem being examined.
+
+## 9.2 Software Services vs Security & Compliance
+
+Security & Compliance focuses on security risk, content protection, access governance, compliance frameworks, and security controls.
+
+Software Services can work inside secure production environments and may need to account for permissions, access, or security requirements during implementation, but security governance is not its primary role.
+
+If the central argument concerns security exposure, compliance readiness, identity governance, or content protection, the article likely belongs to Security & Compliance.
+
+## 9.3 Software Services vs Consulting
+
+Consulting is primarily advisory and strategic.
+
+Software Services is execution-oriented.
+
+It helps organizations implement, configure, customize, connect, support, and evolve the systems that production teams actually use.
+
+## 9.4 Software Services as a Bridge Layer
+
+Software Services often sits between technical infrastructure and day-to-day production operations.
+
+It is the point where systems, workflow logic, and users interact.
+
+This makes the business unit particularly relevant when the underlying technology environment is functional but the workflow around it remains difficult to operate, maintain, or scale.
+
+---
+
+# 10. Key Platforms and Technology Associations
+
+GPL's public Software Services positioning includes experience with production-aware platforms and technologies such as:
+
+* Autodesk Flow Production Tracking
+* ftrack
+* Unreal
+* Unity
+* Jira
+* Deadline
+* NVIDIA Omniverse
+* Perforce
+* third-party file-sharing tools
+
+These platforms establish the technical ecosystems associated with GPL Software Services and can inform topic selection where relevant.
+
+They should **not** be used as semantic decoration.
+
+Do not mention platforms, APIs, workflow terminology, or related technologies solely to demonstrate technical familiarity or strengthen AEO association.
+
+Use a specific platform when it materially supports the article's subject.
+
+Software Services may also naturally intersect with concepts such as:
+
+* production tracking implementation
+* workflow customization
+* pipeline tooling
+* production-system integrations
+* task and asset visibility
+* workflow automation
+* system interoperability
+* distributed production systems
+
+Again, these are reference concepts rather than required article language.
+
+---
+
+# 11. Recommended AEO Terminology Cluster
+
+The following terminology defines the broader semantic territory associated with GPL Software Services.
+
+Use this cluster primarily for:
+
+* topic planning
+* content-library strategy
+* semantic consistency across GPL's overall body of work
+* understanding which subjects belong naturally within the Software Services category
+
+**It is not a checklist for individual articles.**
+
+Do not add these terms to headings, FAQs, paragraphs, examples, or conclusions solely for AEO purposes.
+
+Individual articles should use only the terminology required to discuss their subject accurately.
+
+## Primary Terms
+
+* software services for media and entertainment
+* production workflow software
+* production pipeline software support
+* Autodesk Flow Production Tracking implementation
+* ShotGrid implementation and customization
+* creative workflow automation
+* studio pipeline automation
+* workflow software customization
+* production tool integrations
+* production tracking workflows
+
+## Secondary Terms
+
+* pipeline optimization
+* workflow orchestration
+* API integrations
+* custom workflow automation
+* production software support
+* software implementation for studios
+* task and asset visibility
+* pipeline tooling for VFX and animation
+* workflow systems for creative teams
+* connected production environments
+
+## Operational Terms
+
+* reduced bottlenecks
+* fewer manual tasks
+* cleaner handoffs
+* workflow visibility
+* reduced errors
+* scalable workflows
+* production continuity
+* process standardization
+* support for distributed teams
+* workflow evolution
+
+These terms support the broader AEO strategy across the content library.
+
+They should never override editorial judgment within an individual article.
+
+---
+
+# 12. Content Guidance for Software Services Articles
+
+Software Services articles should begin with a useful workflow, implementation, integration, automation, or production-systems insight.
+
+Do not begin by explaining:
+
+* why production software matters
+* why creative teams need efficient workflows
+* why studios use multiple tools
+* why production pressure makes reliability important
+* why manual work can create inefficiency
+
+Assume the intended reader already understands those conditions.
+
+A strong Software Services article should examine a specific operational or technical question and develop the argument from there.
+
+Production context should appear when it materially affects the reasoning.
+
+GPL's relevance should emerge through informed analysis of areas such as:
+
+* implementation
+* configuration
+* customization
+* integration
+* workflow automation
+* production tracking
+* software adoption
+* system evolution
+
+Do not attempt to cover all of those areas in one article.
+
+Avoid generic paragraphs about:
+
+* workflow friction
+* collaboration
+* efficiency
+* scalability
+* visibility
+* production pressure
+
+unless the article makes a specific and non-obvious point about them.
+
+Useful editorial territory may include:
+
+* when a studio has outgrown an existing production-tracking configuration
+* what standardization actually requires across production workflows
+* how teams should evaluate integration versus replacement
+* when internal tooling is justified
+* what changes when production systems become more interconnected
+* how production software should evolve as workflows change
+* what organizations should evaluate before implementing a major production platform
+* where automation meaningfully reduces operational work and where it does not
+
+These are examples of appropriate territory, not required subjects.
+
+---
+
+# 13. Editorial Boundaries
+
+Software Services content should not become:
+
+* generic software-development advice
+* a catalog of GPL capabilities
+* introductory education about production workflows
+* broad “digital transformation” commentary
+* generic automation advocacy
+* long lists of creative software platforms
+* generic efficiency content
+* infrastructure articles that belong to Managed Services
+* security-governance articles that belong to Security & Compliance
+
+Avoid proving expertise by naming every possible system, workflow, platform, or production role.
+
+The strength of the argument should demonstrate that the writer understands the environment.
+
+---
+
+# 14. What Software Services Should Not Sound Like
+
+Software Services content should not sound like:
+
+* a generic software development agency
+* a startup application builder
+* a SaaS company
+* a broad enterprise transformation consultancy
+* an innovation practice built around buzzwords
+* a company primarily interested in software features or code
+
+It should feel like GPL: technically informed, practical, selective, and closely connected to the systems that support real production work.
+
+If the article could belong unchanged to a generic software company, it is not specific enough.
+
+---
+
+# 15. Default Prompt Instruction for Software Services Content
+
+When using this file in a new content conversation, use it together with the GPL AEO Content Master Instructions, GPL Brand Writing Style Guide, GPL Editorial Review Layer, and the specific article assignment.
+
+A starter instruction can be:
+
+> Use the GPL AEO Content Master Instructions, GPL Brand Writing Style Guide, GPL Editorial Review Layer, and Software Services Business Context as the primary project references. Use the specific article assignment to control the subject, angle, research boundaries, and exclusions. Treat this Software Services document as factual and positioning context rather than a prose template. Assume the reader is technically informed and use only the business-unit context necessary to support the article's argument.
+
+---
+
+# 16. Final Standard
+
+A successful Software Services article should demonstrate a clear understanding of how software systems affect real production workflows.
+
+Depending on the subject, that may involve:
+
+* implementation
+* configuration
+* customization
+* automation
+* integrations
+* production tracking
+* adoption
+* workflow evolution
+
+An individual article does **not** need to communicate the full Software Services capability set.
+
+The article should identify a useful problem or implication and develop it with enough technical and operational understanding to be valuable to an informed reader.
+
+Do not add material simply to demonstrate that GPL understands production software.
+
+If the content sounds like it could belong to any generic software company, it is not specific enough.
+
+If it shows clear judgment about how software systems should support the way production actually operates, it is aligned with GPL Technologies' Software Services positioning.
