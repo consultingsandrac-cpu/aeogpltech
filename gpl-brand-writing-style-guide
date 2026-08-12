@@ -1,0 +1,1018 @@
+# GPL Technologies — Brand Writing Style Guide
+
+## Purpose
+
+This guide defines the writing style for GPL Technologies content across articles, website copy, marketing materials, case studies, editorial assignments, and related thought-leadership content.
+
+GPL content should sound like it was written by a senior technical partner who understands media and entertainment production environments.
+
+The writing should be clear, selective, grounded, technically informed, and useful to readers responsible for production technology, infrastructure, security, software systems, and operations.
+
+This guide defines **how GPL content should sound and how the prose should behave**.
+
+Use it together with:
+
+* the GPL AEO Content Master Instructions
+* the GPL Technologies Editorial Review Layer
+* the relevant business-unit context file
+* the specific article assignment
+
+---
+
+# 1. Core Voice
+
+## One-Sentence Voice Definition
+
+**GPL Technologies writes with practical authority: clear, calm, technically informed, production-aware, and selective about what deserves explanation.**
+
+GPL should never sound like:
+
+* a generic IT company
+* a software vendor
+* a cybersecurity marketing team
+* a service catalog
+* a content-marketing operation manufacturing urgency
+* an AI system expanding an outline into paragraphs
+
+The voice should feel informed, steady, useful, and comfortable leaving obvious information unstated.
+
+---
+
+# 2. Primary Audience
+
+GPL content is written for technically informed people who already understand the environments they manage.
+
+Relevant readers may include:
+
+* IT Directors
+* Heads of Infrastructure
+* Pipeline and Workflow Leaders
+* Security and Compliance Leads
+* Studio Operations Leaders
+* Production Executives
+* Production Technology Managers
+* Technical Directors
+* post-production and VFX leaders
+* other media and entertainment technology decision-makers
+
+These readers do not need basic production realities explained to them.
+
+Assume they already understand concepts such as:
+
+* production deadlines
+* infrastructure dependencies
+* storage pressure
+* remote collaboration
+* vendor access
+* security controls
+* production software
+* workstation performance
+* system documentation
+* support escalation
+* compliance requirements
+
+The article should contribute **analysis, interpretation, implication, or judgment** rather than introductory education.
+
+---
+
+# 3. Editorial Selectivity
+
+## Core Rule
+
+**Every paragraph must earn its place.**
+
+Expert writing includes knowing what does not need to be said.
+
+Before adding background, context, explanation, or an example, ask:
+
+**What does the informed reader gain from this?**
+
+Apply the **“yes, obviously” test**:
+
+If the likely reader could reasonably respond, “Yes, obviously,” remove the sentence unless it is necessary for understanding the next inference.
+
+Do not explain familiar ideas simply to create a smoother introduction or make the article feel complete.
+
+Avoid sentences whose only function is to establish things such as:
+
+* production teams use technology to complete their work
+* studios rely on multiple systems
+* integrations allow applications to exchange information
+* security protects sensitive content
+* infrastructure needs to remain available
+* creative teams work under deadlines
+* workflows can become complex
+* hardware performance affects demanding workloads
+
+Those ideas may be relevant, but an article should move directly to **what changes, what becomes difficult, what the evidence reveals, or what the reader should reconsider**.
+
+## Completeness Is Not the Goal
+
+Do not aim to explain every part of a subject.
+
+The strongest article may deliberately leave familiar context unstated so it can spend more time on the useful part of the argument.
+
+**Editorial selectivity is part of expertise.**
+
+---
+
+# 4. Editorial Standard
+
+GPL content should feel:
+
+* professional
+* direct
+* calm
+* credible
+* practical
+* technically aware
+* production-specific
+* selective
+* consultative without sounding promotional
+* written by someone who trusts the reader's intelligence
+
+GPL content should avoid:
+
+* hype
+* buzzwords
+* inflated claims
+* generic MSP language
+* shallow industry commentary
+* excessive examples
+* artificial contrast framing
+* list-heavy explanation
+* short, disconnected statement stacking
+* unnecessary background
+* obvious “why this matters” explanations
+* writing to a target length
+* “AI article” rhythm
+
+The reader should feel that the writer understands the environment without needing to prove that understanding by naming every workflow, system, role, or pain point.
+
+---
+
+# 5. Voice Pillars
+
+## Pillar 1 — Practical Authority
+
+GPL writes like a senior technical partner, not a vendor pitching services.
+
+Practical authority comes from:
+
+* understanding the operating condition
+* identifying what actually changes
+* distinguishing symptoms from underlying causes
+* explaining consequences only where they are not already obvious
+* making technically grounded judgments
+* knowing which details matter and which do not
+
+Credibility should come from reasoning rather than volume.
+
+Avoid sounding impressed by the technology itself.
+
+Focus on the part of the technology decision that materially affects the environment.
+
+---
+
+## Pillar 2 — Production Context
+
+GPL content should be grounded in real production environments when the subject requires it.
+
+This may include areas such as:
+
+* media and entertainment infrastructure
+* post-production
+* VFX
+* animation
+* production software
+* rendering
+* storage
+* security and compliance
+* remote or distributed production
+* creative technology operations
+
+Production context should **change the analysis**, not decorate it.
+
+Do not make a generic technical argument and then add studio terminology afterward.
+
+Ask:
+
+**What about this production environment materially changes the issue being discussed?**
+
+If the same paragraph could appear unchanged on the website of a generic IT, software, security, or hardware provider, the reasoning probably needs to be more specific.
+
+Do not solve that problem by adding more industry examples.
+
+Strengthen the operational logic instead.
+
+---
+
+## Pillar 3 — Outcomes Where They Add Insight
+
+Technology should be connected to operational impact when that connection adds something useful.
+
+Relevant outcomes may include:
+
+* stronger production continuity
+* clearer infrastructure ownership
+* better access governance
+* reduced recurring friction
+* more reliable workflows
+* improved supportability
+* better visibility
+* more deliberate scaling
+* reduced operational risk
+
+Do not mechanically translate every technical observation into a business consequence.
+
+If the intended reader can already infer the implication, trust the reader.
+
+Weak pattern:
+
+> The integration retains permissions after the user logs out. This matters because persistent permissions can create security risk.
+
+The second sentence adds almost nothing.
+
+Stronger:
+
+> Because the integration retains its own authorization, access can persist independently of the user account that originally established the relationship.
+
+The operational implication is carried inside the reasoning.
+
+---
+
+## Pillar 4 — Partnership Positioning
+
+GPL should sound like a knowledgeable partner that understands the environment, not the hero of the article.
+
+Use calm, factual positioning.
+
+Appropriate language may include:
+
+* GPL helps studios assess…
+* GPL works with production teams to…
+* A production-aware approach should account for…
+* The support model should reflect…
+
+Avoid:
+
+* repeated GPL mentions
+* mid-article promotional paragraphs
+* self-congratulatory claims
+* exaggerated service promises
+* repeatedly reminding the reader that GPL understands production
+
+The article should demonstrate that understanding before it claims it.
+
+In most editorial articles, one natural GPL connection near the conclusion is enough.
+
+---
+
+# 6. Connected Reasoning and Sentence Flow
+
+## Core Rule
+
+GPL articles should read like a senior person thinking through an issue, not like an outline expanded into paragraphs.
+
+Sentences should carry reasoning through:
+
+* cause
+* sequence
+* dependency
+* qualification
+* consequence
+
+Useful connective language may include:
+
+* because
+* and
+* as
+* when
+* so
+* which means
+* over time
+* in practice
+* as a result
+* by the time
+* while
+* once
+* if
+* although
+* where
+
+These words should not be added mechanically.
+
+Their purpose is to let the thought unfold naturally inside the prose.
+
+---
+
+## Avoid Statement Stacking
+
+Avoid paragraphs composed of several short, polished declarations.
+
+Weak:
+
+> Studio infrastructure changes because production requires it. The environment keeps working. Teams adapt. Documentation falls behind. Support becomes more difficult.
+
+Stronger:
+
+> Studio infrastructure changes because production requires it, and the environment may continue working for a long time because teams adapt around those changes. When documentation and ownership do not evolve at the same pace, the environment becomes harder to support with confidence.
+
+The stronger version carries the relationship between the ideas rather than presenting each as a separate statement.
+
+---
+
+## Short Sentences Need a Reason
+
+Short sentences are allowed.
+
+They should create clarity, precision, or emphasis.
+
+They should not become the default rhythm.
+
+Avoid:
+
+> The access remains active. The workflow changes. Ownership shifts. The risk increases.
+
+Prefer:
+
+> Access can remain active even as the workflow and its ownership change, leaving permissions in place after their original operational context has disappeared.
+
+---
+
+# 7. Avoid Claim + List + Consequence Writing
+
+A common AI-writing structure is:
+
+1. make a broad claim
+2. list several examples
+3. explain that the examples create a problem
+4. finish with a sentence telling the reader why it matters
+
+Repeated use of this structure makes articles feel formulaic and junior.
+
+Weak:
+
+> Production environments contain many integrations. A tracking system may connect to storage, an automation platform may connect to another SaaS tool, and a service account may connect applications. These connections can retain access over time. That creates security risk.
+
+Stronger:
+
+> As system-to-system access becomes embedded in production, security teams can lose visibility into permissions that continue operating independently of normal user authentication.
+
+The stronger version goes directly to the operating pattern.
+
+---
+
+# 8. Lists Disguised as Prose
+
+Lists are not limited to bullets.
+
+A sentence can still be list-heavy.
+
+Watch for repeated constructions such as:
+
+> users, contractors, vendors, and partners
+
+> tokens, credentials, permissions, applications, and APIs
+
+> storage, rendering, workstations, networking, and cloud infrastructure
+
+> visibility, scalability, reliability, efficiency, and security
+
+These categories may all be relevant, but repeatedly enumerating them makes the writing feel catalog-like.
+
+Before keeping a series, ask:
+
+**Can the broader category carry the point instead?**
+
+Use the category whenever the individual items do not materially change the argument.
+
+---
+
+# 9. Use Examples Sparingly
+
+Examples should clarify something the reader would otherwise have difficulty understanding.
+
+They should not prove that the writer knows the industry.
+
+Do not add several examples when one concept is enough.
+
+Avoid chains such as:
+
+* storage, render, workstations, access, vendors
+* editorial, VFX, animation, post-production, game development
+* Jira, Perforce, Autodesk Flow, Deadline, file-sharing systems
+* employees, contractors, freelancers, vendors, external partners
+* monitoring, documentation, escalation, ownership, reporting
+
+A good GPL paragraph should usually be able to make its point without naming every manifestation of the issue.
+
+When an example is necessary, choose the one that best clarifies the mechanism.
+
+---
+
+# 10. Paragraph Rhythm
+
+## Paragraphs Should Develop Thought
+
+A GPL paragraph should normally develop one idea through connected reasoning.
+
+Do not create a paragraph simply because:
+
+* the topic changed slightly
+* the assignment contained another bullet
+* the article needs more visual breaks
+* another example is available
+
+The paragraph should contain a meaningful unit of reasoning.
+
+Avoid paragraphs whose structure is:
+
+> topic sentence
+> example
+> example
+> implication
+> takeaway
+
+unless the subject genuinely requires that form.
+
+---
+
+## Paragraph Length Follows the Thought
+
+Do not target a specific number of sentences.
+
+A paragraph should be long enough to develop the idea and short enough to remain clear.
+
+Avoid breaking one connected thought into several small paragraphs simply for scanability.
+
+Likewise, do not keep adding sentences because a paragraph feels “too short.”
+
+---
+
+# 11. Direct Explanation Over Contrast Framing
+
+GPL writing should explain ideas directly rather than relying on rhetorical contrast.
+
+Avoid repeated use of patterns such as:
+
+* not X, but Y
+* the problem is not X; it is Y
+* this is not about X
+* the goal is not X
+* the question is not whether X
+* this does not mean X; it means Y
+* X may seem important, but Y matters more
+
+These constructions can be useful occasionally when the distinction itself is meaningful.
+
+They should never become the default way to create emphasis.
+
+Weak:
+
+> The problem is not the tools themselves. It is how they are configured.
+
+Stronger:
+
+> The problem usually comes from how the tools are configured within the workflow.
+
+Weak:
+
+> This does not mean every integration is dangerous. It means integrations need governance.
+
+Stronger:
+
+> Integration governance should reflect the authority each connection carries and how that authority changes over time.
+
+---
+
+# 12. Avoid Staged Insight
+
+Do not manufacture significance through short, dramatic lines.
+
+Avoid:
+
+> That changes everything.
+
+> This is where the real risk begins.
+
+> The question becomes…
+
+> These patterns matter.
+
+> That is what makes the issue difficult.
+
+> The answer is simple.
+
+> This is the real problem.
+
+These lines often sound polished without adding substantive reasoning.
+
+Prefer direct explanation.
+
+Weak:
+
+> The question becomes whether security teams can still trust the connection.
+
+Stronger:
+
+> Security teams therefore need enough context to determine whether the connection is still behaving within its intended scope.
+
+---
+
+# 13. Technical Specificity Without Over-Explaining
+
+GPL readers do not need introductory tutorials unless the subject genuinely requires one.
+
+Do not teach:
+
+* OAuth from first principles
+* what an API is
+* why storage performance matters
+* why workstations need GPUs
+* what a production tracker does
+* why security controls exist
+* what managed services means
+
+unless understanding that mechanism is essential to the article's argument.
+
+Explain the **relevant distinction**, not the entire concept.
+
+Weak:
+
+> OAuth is an authorization protocol that allows applications to access resources on behalf of users without sharing passwords.
+
+Potentially stronger in context:
+
+> OAuth allows an application to retain authorized access independently of repeated user authentication, which changes the signals security teams can rely on when that relationship is abused.
+
+The second version explains only what the argument needs.
+
+---
+
+# 14. Respect the Reader's Intelligence
+
+Do not walk the reader through implications they can already infer.
+
+Avoid:
+
+> A temporary workaround may help a team complete its work. Because production deadlines are tight, the workaround may remain in place. Over time, this can create risk.
+
+Prefer:
+
+> Temporary production exceptions can become permanent parts of the environment when no one revisits the access or infrastructure decision after the original need has passed.
+
+The reader does not need the production-deadline premise explained.
+
+---
+
+# 15. Start at the Interesting Point
+
+## Introduction Rule
+
+**The article does not need introductory runway.**
+
+Begin as close as possible to:
+
+* the research finding
+* the technical change
+* the unexpected implication
+* the operational tension
+* the unresolved problem
+* the decision the reader now has to make
+
+Do not back up and explain the normal environment before reaching the interesting part.
+
+Avoid openings such as:
+
+> Production environments increasingly rely on technology to support complex workflows.
+
+> Media and entertainment teams work under intense deadlines.
+
+> Modern studios use many interconnected systems.
+
+> Security has always been important to media organizations.
+
+These statements may be true, but they rarely give the reader a reason to continue.
+
+A stronger opening usually starts with the actual issue.
+
+---
+
+# 16. Article Structure
+
+Structure should follow the argument.
+
+Do not assume every article needs:
+
+* background
+* problem framing
+* industry context
+* key considerations
+* implementation
+* takeaways
+* summary
+* conclusion
+
+Use only the sections needed to develop the central idea.
+
+## Section Development
+
+Each section should add a distinct layer.
+
+Ask:
+
+* What does this section contribute that the previous section did not?
+* Is this genuinely another part of the argument?
+* Could two sections be combined?
+* Does this section exist only because the assignment included it?
+
+If two sections could exchange headings without materially changing their content, the structure is weak.
+
+---
+
+## Conclusions
+
+Do not summarize the article section by section.
+
+Return to the central implication and stop.
+
+Avoid:
+
+> In conclusion, studios must consider access, monitoring, governance, documentation, and security controls…
+
+That simply recreates the article as a final list.
+
+A strong conclusion should leave the reader with the most useful implication or decision.
+
+---
+
+# 17. Length and Compression
+
+## Word Count Is Not a Quality Target
+
+Never add material to reach a requested or expected length.
+
+Do not add:
+
+* introductory context
+* examples
+* explanatory paragraphs
+* extra sections
+* FAQs
+* conclusions
+* summaries
+
+because the article feels short.
+
+If the strongest version is 700, 850, 1,000, or 1,100 words, stop there.
+
+**A shorter article is not incomplete if the argument is complete.**
+
+---
+
+## Compression Test
+
+After drafting, ask of every paragraph:
+
+* What new information or inference does this add?
+* Has this already been said?
+* Is this explaining something the reader already knows?
+* Does the next paragraph still make sense without it?
+* Is this here because the assignment mentioned the subject?
+* Is this here because the article felt too short?
+
+If removing the paragraph does not materially weaken the argument, remove it.
+
+---
+
+# 18. Preferred Language
+
+Use operational, technically grounded language when appropriate, such as:
+
+* workflow
+* production environment
+* support model
+* infrastructure visibility
+* production continuity
+* operational control
+* access governance
+* system ownership
+* escalation path
+* production dependency
+* environment stability
+* infrastructure planning
+* recurring friction
+* project-based scaling
+* current-state review
+* implementation
+* configuration
+* integration
+* remediation
+* dependency
+* authority
+* access
+* scope
+
+Use strong, practical verbs such as:
+
+* support
+* reduce
+* improve
+* clarify
+* align
+* stabilize
+* assess
+* configure
+* maintain
+* document
+* monitor
+* manage
+* scale
+* integrate
+* protect
+* resolve
+* review
+* govern
+* identify
+
+Avoid generic or inflated language such as:
+
+* revolutionary
+* cutting-edge
+* game-changing
+* seamless
+* world-class
+* dynamic
+* transformative
+* unparalleled
+* innovative, unless specific
+* robust, unless technically justified
+* state-of-the-art
+
+---
+
+# 19. Business-Unit Specificity
+
+The relevant business-unit context file determines what is factually appropriate for the article.
+
+Do not use the business-unit file as a prose template.
+
+## Managed Services
+
+Content should reason about areas such as:
+
+* infrastructure stability
+* support ownership
+* operational continuity
+* vendor coordination
+* lifecycle
+* environment visibility
+* infrastructure transitions
+
+Avoid generic MSP language.
+
+## Software Services
+
+Content should reason about areas such as:
+
+* production software
+* workflow systems
+* implementation
+* customization
+* integration
+* automation
+* production tracking
+* system evolution
+
+Avoid generic software-agency language.
+
+## Security & Compliance
+
+Content should reason about areas such as:
+
+* security exposure
+* access governance
+* identity
+* vulnerabilities
+* content protection
+* compliance
+* current threat behavior
+* security controls
+
+Avoid generic cybersecurity commentary.
+
+## VFXNOW
+
+Content should reason about areas such as:
+
+* production hardware
+* workstation configuration
+* compute performance
+* workload constraints
+* storage performance
+* scaling
+* hardware availability
+
+Avoid generic hardware-reseller language.
+
+---
+
+# 20. Format-Specific Guidance
+
+## Blog Articles
+
+Blog articles should develop a useful point of view on a real technical or operational issue.
+
+They should not function as broad introductory guides unless the assignment specifically calls for one.
+
+Avoid:
+
+* generic education
+* repeated lists
+* obvious explanations
+* unnecessary “why this matters” sections
+* excessive FAQs
+* shallow thought leadership
+* article structures built simply to achieve length
+
+---
+
+## Website Copy
+
+Website copy should be concise and outcome-aware.
+
+Lead with the relevant value or capability.
+
+Avoid inflated claims, unnecessary explanation, and generic service language.
+
+---
+
+## Case Studies
+
+Case studies should connect:
+
+* the environment
+* the actual problem
+* the approach
+* the result
+
+Do not pad the challenge section with generic industry context.
+
+Use before-and-after comparisons only when factual and useful.
+
+---
+
+## LinkedIn Content
+
+LinkedIn content can be slightly more conversational, but it should still feel technically credible and editorially selective.
+
+Because industry professionals may encounter GPL content outside the context of the website, avoid:
+
+* obvious explanations
+* promotional thought leadership
+* generic “leaders need to know” framing
+* overconfident claims
+* AI-style insight statements
+
+LinkedIn should make the article's useful idea easier to encounter, not simplify the idea into marketing language.
+
+---
+
+# 21. AI-Assisted Writing Rules
+
+When using AI to draft GPL content:
+
+1. Assume the reader is technically informed.
+2. Start at the useful insight.
+3. Do not explain normal production conditions.
+4. Do not expand every assignment bullet into prose.
+5. Use connected reasoning.
+6. Avoid statement stacking.
+7. Avoid claim + list + consequence structure.
+8. Use examples only when they clarify the mechanism.
+9. Avoid lists disguised as prose.
+10. Avoid unnecessary contrast framing.
+11. Do not create staged insight lines.
+12. Do not repeat obvious operational consequences.
+13. Let the argument determine the structure.
+14. Do not write to length.
+15. Cut paragraphs that do not add new information or inference.
+16. Keep GPL positioning restrained.
+17. Do not use AEO terminology as filler.
+18. Stop when the argument is complete.
+
+---
+
+# 22. Editorial Self-Review Checklist
+
+Before publishing, review the content against these questions.
+
+## Editorial Selectivity
+
+* Does every paragraph add something useful?
+* Are there paragraphs the reader could reasonably respond to with “yes, obviously”?
+* Is any material present mainly for background, smoothness, length, or completeness?
+* Could the article be shorter without losing anything important?
+
+## Production Specificity
+
+* Does production context materially change the analysis?
+* Could the same paragraph appear on a generic provider's website?
+* Is industry vocabulary being used instead of actual production insight?
+
+## Connected Reasoning
+
+* Do sentences carry cause, sequence, dependency, and consequence?
+* Are too many ideas separated into short statements?
+* Does the prose feel thought through rather than assembled?
+
+## List Discipline
+
+* Are there lists disguised as sentences?
+* Are examples being used to prove expertise?
+* Could the broader category replace several examples?
+* Does the article repeatedly use claim + list + consequence structure?
+
+## Reader Respect
+
+* Does the article assume the audience understands basic technology and production concepts?
+* Is it explaining something merely because it is relevant rather than because it is necessary?
+* Are implications being over-explained?
+
+## Section Value
+
+* Does each section add something distinct?
+* Are sections repeating the same idea with different terminology?
+* Could sections be combined?
+* Does the structure follow the argument?
+
+## Tone
+
+* Does the article sound calm, experienced, and technically credible?
+* Does it avoid hype and generic marketing language?
+* Does it sound like a knowledgeable partner rather than a vendor?
+
+## Contrast Framing
+
+* Does the article rely on “not X, but Y” constructions?
+* Could those points be stated directly?
+* Are contrasts being used for artificial emphasis?
+
+## AI Rhythm
+
+* Are there repeated short declarative sentences?
+* Are paragraphs formulaic?
+* Are there staged insight transitions?
+* Does the draft feel like an assignment expanded into prose?
+
+---
+
+# 23. The GPL Test
+
+Before approving content, ask:
+
+1. **What is the actual useful idea in this article?**
+2. Does the article reach that idea quickly enough?
+3. Would an informed reader learn something or gain a useful way of thinking?
+4. Does the prose flow through connected reasoning?
+5. Does the article avoid proving expertise through examples and terminology?
+6. Does every section earn its place?
+7. Could obvious material be removed?
+8. Does production context materially affect the reasoning?
+9. Does the article sound human?
+10. Would GPL be comfortable sharing it publicly with industry professionals?
+11. Is the argument complete?
+12. If yes, has the article stopped writing?
+
+If the answer to any of these reveals weak reasoning or unnecessary material, revise before publishing.
+
+---
+
+# Final Directive
+
+GPL content must be clear, practical, technically informed, production-aware, and editorially selective.
+
+The writing should feel like a senior technical partner explaining the part of the issue that actually deserves attention.
+
+Use connected reasoning rather than statement stacking.
+
+Use examples only when they clarify.
+
+Do not build paragraphs from lists.
+
+Do not explain normal production realities to informed readers.
+
+Do not create artificial contrast or staged insight.
+
+Do not write to length.
+
+Do not confuse comprehensive coverage with expertise.
+
+If a paragraph does not add information, interpretation, or a necessary inference, cut it.
+
+If an article sounds like an outline expanded into prose, rebuild it.
+
+If the reader already understands the premise, begin with the implication.
+
+If the argument is complete, stop writing.
