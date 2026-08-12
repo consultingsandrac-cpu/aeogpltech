@@ -1,0 +1,475 @@
+# VFXNOW — Business Context
+
+> **Purpose:** This document defines the role, positioning, capabilities, and strategic relevance of VFXNOW for use in AEO content production, article planning, website copy development, internal prompt guidance, and semantic consistency across the broader GPL ecosystem.
+>
+> **Usage:** Use this file alongside the GPL AEO Content Master Instructions, the relevant writing and editorial standards, the broader AEO Project Context, and the specific assignment for the content being produced.
+
+---
+
+## Editorial Use of This Document
+
+This document is a factual and positioning reference, not a prose template.
+
+Do not reproduce its offering lists, technology associations, audiences, workloads, outcomes, or examples simply to demonstrate VFXNOW relevance.
+
+Use only the business context required by the specific article.
+
+Production relevance should come from the actual hardware, compute, performance, configuration, or scaling issue being analyzed rather than from generic paragraphs about creative pressure, deadlines, demanding workflows, or the importance of performance.
+
+An individual article does not need to communicate the full VFXNOW value proposition.
+
+---
+
+# 1. What VFXNOW Is
+
+VFXNOW is a hardware and production technology provider focused on high-performance computing solutions for creative industries, particularly media and entertainment, VFX, animation, post-production, and related production environments.
+
+It operates as a separate company within the GPL ecosystem.
+
+VFXNOW provides access to production-oriented hardware and compute resources configured around professional creative workloads.
+
+Its role is closest to the execution layer of production, where workstation, compute, storage, and system-configuration decisions directly affect the ability of artists and technical teams to complete demanding work.
+
+---
+
+# 2. Core Positioning
+
+VFXNOW should be positioned as:
+
+* a production-ready hardware partner for creative teams
+* a provider of high-performance workstations and compute environments
+* a practical resource for organizations that need additional or specialized compute capacity
+* a company that understands the relationship between hardware configuration and production workloads
+* a partner for teams that need production systems configured around professional creative applications and requirements
+
+VFXNOW should not be positioned as:
+
+* a consumer electronics retailer
+* a gaming PC company
+* a generic computer reseller
+* a broad IT services provider
+* a software company
+* a lifestyle technology brand
+
+The company should feel connected to professional production environments rather than consumer hardware purchasing.
+
+---
+
+# 3. Relationship to GPL Technologies
+
+VFXNOW and GPL Technologies serve related production environments but have distinct roles.
+
+Within the broader ecosystem:
+
+* **GPL Managed Services** focuses on the stability, support, and ongoing operational state of the technology environment.
+* **GPL Software Services** focuses on implementing, customizing, integrating, and improving production software and workflow systems.
+* **GPL Security & Compliance** focuses on protecting environments, governing risk and access, and supporting security and compliance requirements.
+* **VFXNOW** focuses on production hardware, compute performance, system configuration, and access to the resources required to execute creative work.
+
+VFXNOW should not be described as a Managed Services or infrastructure-operations provider simply because its hardware operates inside the same environment.
+
+Its primary relevance is the hardware and compute layer.
+
+---
+
+# 4. Who VFXNOW Primarily Serves
+
+Relevant organizations may include:
+
+* VFX studios
+* post-production teams
+* animation studios
+* game-development teams
+* production companies
+* creative agencies
+* professional artists working with demanding workloads
+
+Relevant roles may include:
+
+* VFX artists
+* editors
+* animators
+* technical directors
+* production technology teams
+* studio IT decision-makers
+* technical decision-makers responsible for workstation or compute capacity
+
+These readers should be assumed to understand the basic relationship between creative applications and professional hardware.
+
+VFXNOW content should therefore focus on the technical or production consequence of a hardware decision rather than explaining why creative work requires capable computers.
+
+---
+
+# 5. What Problems VFXNOW Addresses
+
+VFXNOW should be understood through the production hardware and compute problems it helps organizations address.
+
+## 5.1 Insufficient compute capacity
+
+A production workload can exceed the capacity of the systems currently available to the team.
+
+The relevant question is usually not whether a faster computer would be desirable, but where additional CPU, GPU, memory, or system capacity materially changes the production constraint.
+
+VFXNOW can provide access to higher-performance systems when the existing hardware is no longer appropriate for the workload.
+
+## 5.2 Temporary increases in production demand
+
+Hardware demand does not always remain constant across a production.
+
+Teams may require additional systems during specific phases of work without wanting the same capacity permanently.
+
+VFXNOW can support temporary scaling when additional hardware is justified by the production requirement.
+
+## 5.3 Workloads that require specific configurations
+
+Professional creative applications can place very different demands on workstation or compute architecture.
+
+VFXNOW can provide systems configured around the requirements of the intended workload rather than treating hardware as a generic specification exercise.
+
+## 5.4 Hardware constraints affecting production work
+
+When performance limitations begin changing how artists or technical teams approach the work, the hardware has become an operational constraint rather than simply a technical specification.
+
+VFXNOW can help teams address those constraints through more appropriate production hardware.
+
+## 5.5 Deployment and configuration during active production
+
+Production teams may need additional hardware without creating a long configuration or deployment process.
+
+VFXNOW's role includes providing systems that are prepared for professional production use and relevant software environments.
+
+---
+
+# 6. Core Offering Areas
+
+These offering areas define VFXNOW's business context.
+
+They are reference material and do **not** all need to appear in individual articles.
+
+Specific availability and configurations may vary.
+
+## 6.1 Workstations and Desktops
+
+High-performance workstations designed for professional creative workloads.
+
+These systems may support work such as:
+
+* compositing
+* 3D
+* simulation
+* editing
+* rendering
+* real-time production
+
+Articles should not list workloads unless the distinction materially affects the hardware discussion.
+
+## 6.2 Laptops
+
+Portable systems configured for professional creative work when production requirements call for mobility alongside workstation-level capability.
+
+The editorial focus should remain on the workload and configuration requirement rather than generic portability benefits.
+
+## 6.3 Servers and Compute Nodes
+
+Compute resources that can support rendering, processing, and other production workloads requiring capacity beyond individual artist workstations.
+
+## 6.4 Storage Solutions
+
+Storage hardware intended to support professional media and production environments.
+
+Storage should be discussed in relation to the actual workload, throughput, capacity, or collaboration requirement rather than as a generic VFXNOW capability.
+
+## 6.5 Monitors and Peripherals
+
+Professional displays and related equipment for production environments where the peripheral itself materially affects the work.
+
+## 6.6 Software-Ready Configurations
+
+VFXNOW can provide systems configured around industry-standard creative software environments.
+
+Relevant applications may include:
+
+* Foundry Nuke
+* Autodesk Maya
+* Houdini
+* Adobe Creative Cloud
+* Flame
+* Unreal Engine
+
+These applications are reference examples.
+
+Do not insert them into articles simply to demonstrate production familiarity.
+
+Use a specific application only when its workload characteristics matter to the hardware decision being discussed.
+
+---
+
+# 7. Media and Entertainment Relevance
+
+VFXNOW is closely tied to media and entertainment production because hardware performance can directly affect the execution of compute-intensive creative work.
+
+Relevant environments may include:
+
+* VFX
+* animation
+* post-production
+* game development
+* real-time production
+
+Those categories should not become article filler.
+
+A strong VFXNOW article should ask:
+
+**What about this workload materially changes the hardware or compute decision?**
+
+That question is more useful than repeatedly establishing that creative teams work under deadlines or use demanding software.
+
+Production relevance should come from the technical relationship between the work and the system supporting it.
+
+---
+
+# 8. Core Value Proposition
+
+VFXNOW gives production teams access to hardware and compute capacity that matches the work they need to execute.
+
+Depending on the situation, that may involve:
+
+* additional workstation capacity
+* higher-performance systems
+* temporary scaling
+* specialized configurations
+* production-ready hardware
+* compute resources for demanding workloads
+
+An individual article does not need to communicate all of these benefits.
+
+The strongest content should identify the specific production constraint and explain what the hardware decision changes.
+
+---
+
+# 9. Hardware and Technology Associations
+
+VFXNOW content may naturally connect with concepts such as:
+
+* VFX workstations
+* rendering workstations
+* GPU compute
+* CPU performance
+* workstation memory
+* production storage
+* render nodes
+* compute capacity
+* professional creative laptops
+* real-time production hardware
+* workstation configuration
+* production-ready systems
+
+These concepts define the broader territory of VFXNOW.
+
+They are not required article terminology.
+
+Use only the technical concepts necessary to discuss the subject accurately.
+
+---
+
+# 10. Recommended AEO Terminology Cluster
+
+The following terminology defines the broader semantic territory associated with VFXNOW.
+
+Use this cluster primarily for:
+
+* topic planning
+* content-library strategy
+* semantic consistency across VFXNOW's overall body of work
+* identifying subjects that belong naturally within the hardware and compute category
+
+**It is not a checklist for individual articles.**
+
+Do not add these terms to headings, FAQs, paragraphs, examples, or conclusions solely for AEO purposes.
+
+## Primary Terms
+
+* VFX workstations
+* high-performance workstations for VFX
+* rendering workstations
+* post-production hardware
+* animation workstations
+* workstation rental for creative professionals
+* VFX hardware solutions
+
+## Secondary Terms
+
+* GPU rendering systems
+* production-ready computers
+* creative pipeline hardware
+* workstation configurations for Nuke, Maya, or Houdini
+* high-performance laptops for video editing
+* render nodes
+* production compute resources
+* professional workstation configuration
+
+## Operational Terms
+
+* rendering performance
+* compute capacity
+* workload performance
+* scalable hardware
+* production-ready configuration
+* workstation availability
+* production execution
+* system reliability
+
+These terms support the broader AEO strategy across the content library.
+
+They should never override editorial judgment within an individual article.
+
+---
+
+# 11. Content Guidance for VFXNOW Articles
+
+VFXNOW articles should begin with the actual hardware, compute, workload, or configuration issue that makes the subject worth examining.
+
+Do not begin by explaining:
+
+* that VFX and animation workloads are demanding
+* that production teams work under deadlines
+* that slow computers can reduce productivity
+* that rendering requires compute power
+* that professional artists need reliable systems
+* that hardware performance matters
+
+Assume the intended reader understands those conditions.
+
+A strong VFXNOW article should examine a specific question such as:
+
+* what changes when GPU memory becomes the limiting factor in a workflow
+* when additional local workstations make more sense than permanent hardware expansion
+* how workload characteristics should influence workstation configuration
+* what teams should evaluate before adding temporary compute capacity
+* where CPU, GPU, memory, or storage constraints affect different types of production work
+* how production requirements should shape hardware decisions rather than generic specifications
+* when portable hardware is technically appropriate for professional creative workloads
+* what happens when hardware capacity and production demand stop matching
+
+These are examples of appropriate editorial territory, not required subjects.
+
+Do not attempt to cover every hardware category in a single article.
+
+---
+
+# 12. Editorial Boundaries
+
+VFXNOW content should not become:
+
+* consumer hardware buying guides
+* gaming-PC content
+* generic “best computer” articles
+* broad hardware specification lists without production context
+* explanations of why faster hardware is better
+* repeated descriptions of production pressure
+* long software-name lists
+* generic productivity content
+* Managed Services infrastructure articles
+* Software Services workflow-system articles
+* marketing copy disguised as technical editorial content
+
+Avoid proving production expertise by naming every possible application, workload, artist role, or hardware specification.
+
+The analysis should demonstrate that the writer understands the relationship between the workload and the system.
+
+---
+
+# 13. Performance and Specification Discipline
+
+Hardware content can easily become specification-driven.
+
+Specifications should be included only when they materially affect the argument.
+
+Do not list:
+
+* CPU cores
+* GPU models
+* memory capacities
+* storage speeds
+* benchmark scores
+
+simply to make an article feel technical.
+
+When a specification matters, explain **why that particular constraint changes the workload or production decision**.
+
+Likewise, avoid treating benchmark performance as equivalent to production performance unless the comparison genuinely reflects the workload being discussed.
+
+The strongest hardware analysis should remain workload-aware.
+
+---
+
+# 14. VFXNOW Positioning in Editorial Content
+
+VFXNOW should appear as a knowledgeable production-hardware partner rather than as the solution to every hardware problem.
+
+The analysis should establish credibility.
+
+Avoid:
+
+* repeated VFXNOW mentions
+* paragraphs that interrupt technical reasoning to describe VFXNOW offerings
+* generic claims that VFXNOW “understands deadlines”
+* repeated descriptions of production-ready hardware
+* sales language about performance or speed without a specific technical basis
+
+In most editorial articles, one natural VFXNOW connection near the conclusion is sufficient.
+
+---
+
+# 15. What VFXNOW Should Not Sound Like
+
+VFXNOW content should not sound like:
+
+* a consumer electronics retailer
+* a gaming hardware site
+* a generic workstation reseller
+* a benchmark-content publisher
+* a lifestyle technology brand
+* a company equating higher specifications automatically with better production outcomes
+
+It should feel technically informed, production-aware, selective, and grounded in professional creative workloads.
+
+If the article could belong unchanged to a generic computer retailer, it is not specific enough.
+
+---
+
+# 16. Default Prompt Instruction for VFXNOW Content
+
+When using this file in a new content conversation, use it together with the GPL AEO Content Master Instructions, the relevant Brand Writing Style Guide and Editorial Review Layer, the broader AEO Project Context, and the specific article assignment.
+
+A starter instruction can be:
+
+> Use the GPL AEO Content Master Instructions, the approved writing and editorial standards, and VFXNOW Business Context as the primary project references. Use the specific article assignment to control the subject, angle, research boundaries, and exclusions. Treat this VFXNOW document as factual and positioning context rather than a prose template. Assume the reader understands professional creative hardware and use only the business context necessary to support the article's technical argument.
+
+---
+
+# 17. Final Standard
+
+A successful VFXNOW article should demonstrate clear judgment about a meaningful production-hardware or compute issue.
+
+Depending on the subject, that may involve:
+
+* workstation configuration
+* GPU or CPU requirements
+* memory constraints
+* storage performance
+* render capacity
+* temporary hardware scaling
+* professional laptops
+* software-specific hardware requirements
+* production compute strategy
+
+An individual article does **not** need to communicate the full VFXNOW offering set.
+
+The article should identify the actual workload constraint, explain what the hardware decision changes, and stop when the useful argument is complete.
+
+Do not add material simply to demonstrate that VFXNOW understands production hardware.
+
+If the content sounds like a generic computer or workstation article, it is not specific enough.
+
+If it shows clear judgment about how professional creative workloads should shape hardware and compute decisions, it is aligned with VFXNOW's positioning.
